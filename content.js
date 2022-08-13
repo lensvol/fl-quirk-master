@@ -38,7 +38,7 @@ function createSpoilerMessage(gains, loses) {
     }
 
     if (gains.length > 0 && loses.length === 0) {
-        return `This will raise ${formatQuirkList(loses)}.`;
+        return `This will raise ${formatQuirkList(gains)}.`;
     }
 
     return `This will raise ${formatQuirkList(gains)}. It will also lower ${formatQuirkList(loses)}.`;

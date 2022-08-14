@@ -100,22 +100,23 @@ let mainContentObserver = new MutationObserver(((mutations, observer) => {
                         continue;
                     }
 
-                    const spoilerMessage = createSpoilerMessage(gains || [], loses || []);
+                    const branchText = description.textContent;
+                    const spoilerMessage = `Quirk Master says: ` + createSpoilerMessage(gains || [], loses || []);
+                    const textContainer = document.createElement("p");
+                    textContainer.textContent = branchText;
+
+                    const spoilerNode = createLabelNode(spoilerMessage);
+                    const spoilerContainer = document.createElement("p");
+                    spoilerContainer.appendChild(spoilerNode);
 
                     if (!annotation) {
-                        const branchText = description.textContent;
                         description.textContent = "";
-                        const textContainer = document.createElement("p");
-                        textContainer.textContent = branchText;
-
-                        const spoilerNode = createLabelNode(spoilerMessage);
-                        const spoilerContainer = document.createElement("p");
-                        spoilerContainer.appendChild(spoilerNode);
 
                         description.appendChild(textContainer);
                         description.appendChild(spoilerContainer);
                     } else {
-                        annotation.textContent += ` ${spoilerMessage}`;
+                        // annotation.textContent += ` ${spoilerMessage}`;
+                        annotation.parentElement.appendChild(spoilerContainer);
                     }
                 }
             }

@@ -14,7 +14,7 @@ Grab it here:
 ## Attribution
 
 This extension uses data submitted to the "Fallen London Wiki" (https://fallenlondon.wiki) by its contributors and is 
-used here under  CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by/3.0/)
+used here under CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Manual installation
 

@@ -53,7 +53,7 @@ if __name__ == "__main__":
             """
 // This information was compiled using data submitted to the "Fallen London Wiki"
 // (https://fallenlondon.wiki) by its contributors and is used here under
-// CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by/3.0/)
+// CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)
 
 """
         )

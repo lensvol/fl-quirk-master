@@ -11,11 +11,6 @@ _NB: This extension is **not** yet whitelisted by Failbetter Games. Use at your 
 Grab it here:
 * [Releases page](https://github.com/lensvol/fl-quirk-master/releases) (most up-to-date, see below for instructions)
 
-## Attribution
-
-This extension uses data submitted to the "Fallen London Wiki" (https://fallenlondon.wiki) by its contributors and is 
-used here under CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)
-
 ## Manual installation
 
 ### Chrome
@@ -42,3 +37,8 @@ used here under CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa
 3. Open **opera:extensions** page.
 4. Enable "Developer Mode" (top right corner).
 6. Click **Load unpacked** and select the folder where you unzipped the file.
+
+## Attribution
+
+This extension uses data submitted to the "Fallen London Wiki" (https://fallenlondon.wiki) by its contributors and is
+used here under CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)

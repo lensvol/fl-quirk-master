@@ -1,6 +1,6 @@
 
 # FL Quirk Master
-[![License](https://img.shields.io/github/license/lensvol/fl-quirk-master)](https://github.com/lensvol/fl-quirk-master/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-quirk-master) 
+[![License](https://img.shields.io/github/license/lensvol/fl-quirk-master)](https://github.com/lensvol/fl-quirk-master/blob/master/LICENSE) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lensvol/fl-quirk-master) [![Mozilla Add-on](https://img.shields.io/amo/v/fl-quirk-master)](https://addons.mozilla.org/en-US/firefox/addon/fl-quirk-master/) [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ajkkmlpkfhdcepioapimmhdcgeadkphe)](https://chrome.google.com/webstore/detail/fl-quirk-master/ajkkmlpkfhdcepioapimmhdcgeadkphe) 
 
 ![screenshot](https://raw.githubusercontent.com/lensvol/fl-quirk-master/master/screenshot.png)
 

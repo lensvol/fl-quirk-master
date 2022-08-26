@@ -1,7 +1,7 @@
 
 // This information was compiled using data submitted to the "Fallen London Wiki"
 // (https://fallenlondon.wiki) by its contributors and is used here under
-// CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by/3.0/)
+// CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)
 
 QUIRK_CHANGES = {
     "Gains": {
@@ -43,6 +43,10 @@ QUIRK_CHANGES = {
         "id_123195": ["Austere"],
         // An unusual hat for a church official
         "id_10169": ["Austere"],
+        // Be sparse
+        "id_131954": ["Austere"],
+        // Be unmoving
+        "id_131928": ["Austere"],
         // Choose Campaigner as your Profession
         "id_38325": ["Austere"],
         // Consign it to the flames!
@@ -105,6 +109,8 @@ QUIRK_CHANGES = {
         "id_169948": ["Austere"],
         // Not that sort of poet
         "id_9328": ["Austere"],
+        // One last effort! (Austere)
+        "id_190857": ["Austere"],
         // Reason with the Detective
         "id_164827": ["Austere"],
         // Reject
@@ -141,6 +147,8 @@ QUIRK_CHANGES = {
         "id_6039": ["Austere"],
         // You've struggled on
         "id_177730": ["Austere"],
+        // Eat at the Curate's Table
+        "id_134619": ["Austere"],
         // ...a thrilling tale of narrow escapes and breathless burglaries
         "id_171754": ["Daring"],
         // A home a long way down
@@ -199,6 +207,8 @@ QUIRK_CHANGES = {
         "id_10168": ["Daring"],
         // On your face
         "id_169922": ["Daring"],
+        // One last effort! (Daring)
+        "id_190860": ["Daring"],
         // Out you go, longshanks
         "id_6798": ["Daring"],
         // Outshine them all
@@ -263,6 +273,8 @@ QUIRK_CHANGES = {
         "id_138750": ["Daring"],
         // Transform yourself with Orange-Apple Jam spiked with Muscaria Brandy
         "id_245708": ["Daring", "Ruthless", "Heartless", "Forceful"],
+        // Venture further out
+        "id_131957": ["Daring"],
         // Violate the zailors' most sacred superstition
         "id_120919": ["Daring"],
         // Wait for His Majesty the Prince, and the Court to greet you
@@ -501,6 +513,8 @@ QUIRK_CHANGES = {
         "id_10359": ["Hedonist", "Magnanimous", "Melancholy", "Subtle"],
         // Sometimes you just can't help yourself
         "id_6769": ["Hedonist"],
+        // Spoil yourself
+        "id_131955": ["Hedonist"],
         // Start the betting
         "id_6528": ["Hedonist"],
         // The Mycologenes
@@ -539,18 +553,20 @@ QUIRK_CHANGES = {
         "id_162911": ["Hedonist"],
         // You went for a night of drinking
         "id_167964": ["Hedonist"],
-        // Bribe the maître d' (2 FATE)
-        "id_7627": ["Hedonist"],
         // Try your luck (Feast of the Rose)
         "id_7626": ["Hedonist"],
-        // An assignation in the garden with a stranger
-        "id_5487": ["Hedonist"],
+        // Eat at the Custodial Chef's Table
+        "id_134620": ["Hedonist"],
         // While it lasts!
         "id_120730": ["Hedonist"],
+        // Bribe the maître d' (2 FATE)
+        "id_7627": ["Hedonist"],
         // Mr Sacks, London is the crucible of desires
         "id_35569": ["Hedonist"],
         // Enjoy the decadence
         "id_5500": ["Hedonist"],
+        // An assignation in the garden with a stranger
+        "id_5487": ["Hedonist"],
         // Compete
         "id_254801": ["Hedonist"],
         // "Rats are people, too."
@@ -689,6 +705,8 @@ QUIRK_CHANGES = {
         "id_8144": ["Magnanimous"],
         // Refuse
         "id_5608": ["Magnanimous", "Subtle"],
+        // Remember the old fisherman's stories
+        "id_131960": ["Magnanimous"],
         // Rescue a certain soul from the Brass Embassy
         "id_120916": ["Magnanimous"],
         // Rescue the crew
@@ -763,12 +781,10 @@ QUIRK_CHANGES = {
         "id_164833": ["Magnanimous"],
         // Offer to help find the lady
         "id_5531": ["Magnanimous", "Melancholy"],
-        // Give the gift of significant fate (50 FATE)
-        "id_235652": ["Magnanimous"],
-        // "Silas! You rogue! Times still hard?"
-        "id_35576": ["Magnanimous"],
         // Clear the paths of others, then your own
         "id_34423": ["Magnanimous"],
+        // "Silas! You rogue! Times still hard?"
+        "id_35576": ["Magnanimous"],
         // Help to console the gentleman
         "id_5530": ["Magnanimous", "Melancholy"],
         // Assist the wreck of Sacks
@@ -777,12 +793,14 @@ QUIRK_CHANGES = {
         "id_212224": ["Magnanimous"],
         // Give the gift of Fate (20 FATE)
         "id_235650": ["Magnanimous"],
+        // Give the gift of a great Fate (Christmas) (100 FATE)
+        "id_235653": ["Magnanimous"],
         // Invite him in for wine and cold meats
         "id_35575": ["Magnanimous"],
         // Bid it the kindest farewell you can
         "id_120377": ["Magnanimous"],
-        // Give the gift of a great Fate (Christmas) (100 FATE)
-        "id_235653": ["Magnanimous"],
+        // Give the gift of significant fate (50 FATE)
+        "id_235652": ["Magnanimous"],
         // "Patron", is it?
         "id_5431": ["Melancholy", "Forceful"],
         // A dream about the mist
@@ -837,6 +855,8 @@ QUIRK_CHANGES = {
         "id_5692": ["Melancholy"],
         // On your heart
         "id_169924": ["Melancholy"],
+        // One last effort! (Melancholy)
+        "id_190862": ["Melancholy"],
         // One last stroll
         "id_7074": ["Melancholy"],
         // Pick out a sapphire
@@ -847,6 +867,8 @@ QUIRK_CHANGES = {
         "id_7846": ["Melancholy"],
         // Restitution for the Drowned Man
         "id_185030": ["Melancholy"],
+        // Sing a song the Drownies sing
+        "id_131951": ["Melancholy"],
         // So much has been lost
         "id_5477": ["Melancholy"],
         // Some day, you'll return to the surface
@@ -899,20 +921,20 @@ QUIRK_CHANGES = {
         "id_164841": ["Melancholy"],
         // You went for a long walk to clear your head
         "id_167967": ["Melancholy"],
-        // An intriguing resemblance
-        "id_5542": ["Melancholy", "Subtle"],
-        // Take the air
-        "id_144365": ["Melancholy"],
         // Cast aside your mask!
         "id_5488": ["Melancholy"],
         // Mr Sacks! Take this dream of better times
         "id_35463": ["Melancholy"],
-        // Don't remind yourself
-        "id_5541": ["Melancholy"],
         // Search the shore
         "id_120317": ["Melancholy"],
+        // Don't remind yourself
+        "id_5541": ["Melancholy"],
         // Mr Sacks, London weeps for the sky
         "id_35570": ["Melancholy"],
+        // An intriguing resemblance
+        "id_5542": ["Melancholy", "Subtle"],
+        // Take the air
+        "id_144365": ["Melancholy"],
         // "The only good rat is a dead rat!"
         "id_169919": ["Ruthless"],
         // ...a grim tale of knives and tears
@@ -985,6 +1007,8 @@ QUIRK_CHANGES = {
         "id_5605": ["Ruthless"],
         // Easy money
         "id_4881": ["Ruthless"],
+        // Employ explosives
+        "id_131953": ["Ruthless"],
         // Ensure she never troubles you again 2
         "id_119345": ["Ruthless"],
         // Favour the Cheery Man
@@ -1137,6 +1161,8 @@ QUIRK_CHANGES = {
         "id_167554": ["Steadfast"],
         // Be honest
         "id_6360": ["Steadfast"],
+        // Be patient 2
+        "id_131952": ["Steadfast"],
         // Convince him to let you return it to Old Downy
         "id_157461": ["Steadfast"],
         // Deal with the rats as promised
@@ -1193,6 +1219,8 @@ QUIRK_CHANGES = {
         "id_5833": ["Steadfast"],
         // On your torso
         "id_169923": ["Steadfast"],
+        // One last effort! (Steadfast)
+        "id_190858": ["Steadfast"],
         // Reclaim your story
         "id_162909": ["Steadfast"],
         // Remain loyal to the King
@@ -1323,6 +1351,8 @@ QUIRK_CHANGES = {
         "id_236254": ["Subtle"],
         // Duel with Chi Lan, and cheat
         "id_5461": ["Subtle"],
+        // Employ fishermen's tricks
+        "id_131950": ["Subtle"],
         // Favour the Gracious Widow
         "id_171784": ["Subtle"],
         // Find out more about the Hunter
@@ -1443,8 +1473,6 @@ QUIRK_CHANGES = {
         "id_164834": ["Subtle"],
         // You're a complicated person...
         "id_5428": ["Subtle"],
-        // Mr Sacks! Take my best regards! 2
-        "id_34794": ["Subtle"],
         // Mr Sacks! Take my best regards!
         "id_34693": ["Subtle"],
         // Mr Sacks! Take my best regards! 3
@@ -1453,6 +1481,8 @@ QUIRK_CHANGES = {
         "id_120501": ["Subtle"],
         // Mr Sacks! Take my best regards! 4
         "id_120344": ["Subtle"],
+        // Mr Sacks! Take my best regards! 2
+        "id_34794": ["Subtle"],
         // "The Gracious Widow."
         "id_171495": ["Heartless"],
         // "The Gracious Widow." (Patch)
@@ -1493,6 +1523,8 @@ QUIRK_CHANGES = {
         "id_238065": ["Heartless"],
         // Double-cross him!
         "id_5372": ["Heartless"],
+        // Employ sinister bait
+        "id_131958": ["Heartless"],
         // Exploit them
         "id_5065": ["Heartless"],
         // Exterminate the rats but charge a fee
@@ -1531,6 +1563,8 @@ QUIRK_CHANGES = {
         "id_6498": ["Heartless"],
         // Oho! Ripe rats!
         "id_7843": ["Heartless"],
+        // One last effort! (Heartless)
+        "id_190859": ["Heartless"],
         // Proof your rooftop against the urchins
         "id_121261": ["Heartless"],
         // Remind a certain family of their patriotic duty
@@ -1611,6 +1645,8 @@ QUIRK_CHANGES = {
         "id_162950": ["Forceful"],
         // Expose him to the enigmatic beauties celebrated by the Bazaarines
         "id_236740": ["Forceful"],
+        // Fire shots into the water
+        "id_131959": ["Forceful"],
         // Go for the throat!
         "id_5663": ["Forceful"],
         // Implore the King to attack
@@ -1621,6 +1657,8 @@ QUIRK_CHANGES = {
         "id_4524": ["Forceful"],
         // Make the Sanguine Auctioneer take you to the Spires Collection
         "id_234326": ["Forceful"],
+        // One last effort! (Forceful)
+        "id_190856": ["Forceful"],
         // Press the matter
         "id_123172": ["Forceful"],
         // Rail at them
@@ -1755,6 +1793,8 @@ QUIRK_CHANGES = {
         "id_4259": ["Austere"],
         // Must... resist! Think... of waistline!
         "id_8786": ["Austere", "Hedonist"],
+        // One last effort! (Forceful)
+        "id_190856": ["Austere"],
         // Pray for guidance
         "id_7355": ["Austere"],
         // Prove yourself
@@ -1809,6 +1849,8 @@ QUIRK_CHANGES = {
         "id_120731": ["Austere"],
         // The Noman
         "id_119860": ["Austere", "Daring", "Hedonist", "Magnanimous", "Melancholy", "Ruthless", "Steadfast", "Subtle", "Heartless", "Forceful"],
+        // Eat at the Custodial Chef's Table
+        "id_134620": ["Austere"],
         // Try your luck (Feast of the Rose)
         "id_7626": ["Austere"],
         // While it lasts!
@@ -1831,6 +1873,8 @@ QUIRK_CHANGES = {
         "id_211018": ["Daring"],
         // On your heart
         "id_169924": ["Daring"],
+        // One last effort! (Melancholy)
+        "id_190862": ["Daring"],
         // Proof your rooftop against the urchins
         "id_121261": ["Daring"],
         // Send no response
@@ -1951,6 +1995,8 @@ QUIRK_CHANGES = {
         "id_169926": ["Hedonist"],
         // You've struggled on
         "id_177730": ["Hedonist"],
+        // Eat at the Curate's Table
+        "id_134619": ["Hedonist"],
         // "Patron", is it?
         "id_5431": ["Magnanimous"],
         // "The Cheery Man."
@@ -2079,12 +2125,12 @@ QUIRK_CHANGES = {
         "id_5626": ["Magnanimous"],
         // You're a complicated person...
         "id_5428": ["Magnanimous"],
-        // Let it go, carelessly
-        "id_120376": ["Magnanimous"],
         // Take advantage of the situation
         "id_37387": ["Magnanimous"],
         // Mercy is not to be despised
         "id_120728": ["Magnanimous"],
+        // Let it go, carelessly
+        "id_120376": ["Magnanimous"],
         // A lapis-framed mirror
         "id_5274": ["Melancholy"],
         // A natural philosophy
@@ -2119,6 +2165,8 @@ QUIRK_CHANGES = {
         "id_7843": ["Melancholy"],
         // On your face
         "id_169922": ["Melancholy"],
+        // One last effort! (Daring)
+        "id_190860": ["Melancholy"],
         // Out you go, longshanks
         "id_6798": ["Melancholy"],
         // Plant a pin on a judge
@@ -2203,10 +2251,10 @@ QUIRK_CHANGES = {
         "id_7368": ["Ruthless"],
         // The value of sportsmanship
         "id_5468": ["Ruthless"],
-        // Send your Rubbery Friend to help
-        "id_212224": ["Ruthless"],
         // Tell it about the end and the means
         "id_120723": ["Ruthless"],
+        // Send your Rubbery Friend to help
+        "id_212224": ["Ruthless"],
         // 'Borrow' a substantial sum of moon-pearls
         "id_4858": ["Steadfast"],
         // A cave snake
@@ -2263,6 +2311,8 @@ QUIRK_CHANGES = {
         "id_5471": ["Steadfast"],
         // Leave well enough alone
         "id_9315": ["Steadfast"],
+        // One last effort! (Heartless)
+        "id_190859": ["Steadfast"],
         // Only a small betrayal
         "id_158105": ["Steadfast"],
         // Plant a scandalous rumour about your mark
@@ -2475,6 +2525,8 @@ QUIRK_CHANGES = {
         "id_5064": ["Heartless"],
         // Offer the lives of your crew
         "id_251329": ["Heartless"],
+        // One last effort! (Steadfast)
+        "id_190858": ["Heartless"],
         // Pity him and try to reason
         "id_246841": ["Heartless"],
         // Reclaim your story
@@ -2513,12 +2565,12 @@ QUIRK_CHANGES = {
         "id_164841": ["Heartless"],
         // You went for a long walk to clear your head
         "id_167967": ["Heartless"],
-        // Bid it the kindest farewell you can
-        "id_120377": ["Heartless"],
         // "Silas! You rogue! Times still hard?"
         "id_35576": ["Heartless"],
         // Assist the wreck of Sacks
         "id_37390": ["Heartless"],
+        // Bid it the kindest farewell you can
+        "id_120377": ["Heartless"],
         // "Keep it bloodless"
         "id_8690": ["Forceful"],
         // '...I returned it to him, politely.'
@@ -2545,6 +2597,8 @@ QUIRK_CHANGES = {
         "id_171750": ["Forceful"],
         // Observe him in his honey-addled state
         "id_164828": ["Forceful"],
+        // One last effort! (Austere)
+        "id_190857": ["Forceful"],
         // Play coded chess with an anonymous opponent
         "id_163628": ["Forceful"],
         // Publish a monograph on obscure scientific minutiae

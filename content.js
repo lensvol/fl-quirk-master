@@ -109,14 +109,36 @@ let mainContentObserver = new MutationObserver(((mutations, observer) => {
                     const spoilerContainer = document.createElement("p");
                     spoilerContainer.appendChild(spoilerNode);
 
-                    if (!annotation) {
-                        description.textContent = "";
+                    /*
+                    Three possible cases:
 
-                        description.appendChild(textContainer);
-                        description.appendChild(spoilerContainer);
+                    1. Text is not in the paragraph and annotation is in a single span after the text.
+                    2. Text is in paragraph, no annotation.
+                    3. Text and annotation span are both in separate paragraphs.
+
+                    Note to self: discuss with therapist why am I even doing this.
+                     */
+
+                    if (annotation) {
+                        if (annotation.parentElement.childElementCount === 1) {
+                            // Case 3: Annotation is in a separate paragraph
+                            description.appendChild(spoilerContainer)
+                        } else {
+                            // Case 1: Annotation is directly after the text.
+                            // Specifically, this refers to investigation branch on Constables card.
+                            const annotationNode = createLabelNode(annotation.textContent);
+                            const annotationContainer = document.createElement("p");
+                            annotationContainer.appendChild(annotationNode);
+
+                            description.textContent = "";
+
+                            description.appendChild(textContainer);
+                            description.appendChild(annotationContainer);
+                            description.appendChild(spoilerContainer);
+                        }
                     } else {
-                        // annotation.textContent += ` ${spoilerMessage}`;
-                        annotation.parentElement.appendChild(spoilerContainer);
+                        // Case 2: Simple branch done in modern style.
+                        description.parentElement.insertBefore(spoilerContainer, description.nextSibling);
                     }
                 }
             }

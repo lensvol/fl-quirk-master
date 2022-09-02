@@ -60,14 +60,14 @@ if __name__ == "__main__":
 
         fp.write("QUIRK_CHANGES = {\n")
         fp.write('    "Gains": {\n')
-        for branch_id, quirks in gains.items():
+        for branch_id, quirks in sorted(gains.items(), key=lambda it: it[0]):
             serialized_quirks = ", ".join(['"' + quirk + '"' for quirk in quirks])
             fp.write(f"        // {ids_to_titles[branch_id]}\n")
             fp.write(f'        "id_{branch_id}": [{serialized_quirks}],\n')
         fp.write("    },\n")
 
         fp.write('    "Loses": {\n')
-        for branch_id, quirks in loses.items():
+        for branch_id, quirks in sorted(loses.items(), key=lambda it: it[0]):
             serialized_quirks = ", ".join(['"' + quirk + '"' for quirk in quirks])
             fp.write(f"        // {ids_to_titles[branch_id]}\n")
             fp.write(f'        "id_{branch_id}": [{serialized_quirks}],\n')

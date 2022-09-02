@@ -67,7 +67,7 @@ let mainContentObserver = new MutationObserver(((mutations, observer) => {
                         continue;
                     }
 
-                    if (description.querySelector("span[id='quirk-spoiler']")) {
+                    if (branchContainer.querySelector("span[id='quirk-spoiler']")) {
                         continue;
                     }
 

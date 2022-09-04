@@ -9,6 +9,8 @@ Simple extension to annotate branch descriptions with warnings about Quirks bein
 _NB: This extension is **not** yet whitelisted by Failbetter Games. Use at your own risk!_ 
 
 Grab it here:
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/fl-quirk-master/ajkkmlpkfhdcepioapimmhdcgeadkphe)
+* [Mozilla Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/fl-quirk-master/)
 * [Releases page](https://github.com/lensvol/fl-quirk-master/releases) (most up-to-date, see below for instructions)
 
 ## Manual installation

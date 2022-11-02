@@ -899,6 +899,10 @@ QUIRK_CHANGES = {
         "id_63709": ["Subtle"],
         // Sell the location of the Cave of the Nadir (Urchins)
         "id_63710": ["Daring"],
+        // Burn your promises
+        "id_116059": ["Subtle"],
+        // Serve wine with bitter herbs
+        "id_116062": ["Austere"],
         // Ensure she never troubles you again 2
         "id_119345": ["Ruthless"],
         // Search the shore
@@ -1995,6 +1999,10 @@ QUIRK_CHANGES = {
         "id_63709": ["Steadfast"],
         // Sell the location of the Cave of the Nadir (Urchins)
         "id_63710": ["Melancholy"],
+        // Burn your promises
+        "id_116059": ["Steadfast"],
+        // Serve wine with bitter herbs
+        "id_116062": ["Hedonist"],
         // The Noman
         "id_119860": ["Austere", "Daring", "Hedonist", "Magnanimous", "Melancholy", "Ruthless", "Steadfast", "Subtle", "Heartless", "Forceful"],
         // Let it go, carelessly

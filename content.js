@@ -21,8 +21,15 @@ function formatQuirkList(quirks) {
 }
 
 function createSpoilerMessage(gains, loses) {
+    debugger;
     if (gains.length === 1 && loses.length === 1) {
         return `This will raise ${gains[0]} and lower ${loses[0]}.`;
+    }
+
+    // At least one branch (thinking about waistline in a Veilgarden party)
+    // has both two quirks going in opposite directions on different rolls.
+    if (gains.length === 2 && loses.length === 2 && gains.every((el, i) => el == loses[i])) {
+        return `This will raise ${gains[0]} and lower ${gains[1]}. Or vice versa.`;
     }
 
     if (gains.length === 1 && loses.length === 0) {

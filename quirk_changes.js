@@ -9,6 +9,10 @@ QUIRK_CHANGES = {
         "id_4258": ["Daring"],
         // Learn a few tricks from a Gallows Poet
         "id_4259": ["Hedonist"],
+        // Pick pockets with the urchins
+        "id_4262": ["Daring"],
+        // Take a stroll around Tyrant's Gardens
+        "id_4265": ["Subtle"],
         // Intervene in his favour
         "id_4386": ["Magnanimous"],
         // Perhaps you can help
@@ -111,6 +115,8 @@ QUIRK_CHANGES = {
         "id_5246": ["Ruthless"],
         // Scuttle the boat
         "id_5263": ["Ruthless"],
+        // Murder for love
+        "id_5361": ["Ruthless"],
         // Double-cross him!
         "id_5372": ["Heartless"],
         // Be Ruthless. Shove her aside.
@@ -495,8 +501,12 @@ QUIRK_CHANGES = {
         "id_6781": ["Subtle"],
         // An evening with a Regal Actress
         "id_6790": ["Hedonist"],
+        // Run the rooftops with the urchins
+        "id_6797": ["Daring"],
         // Out you go, longshanks
         "id_6798": ["Daring"],
+        // Get some work done at Clathermont's tattoo parlour
+        "id_6803": ["Subtle"],
         // Learn more at the carnival
         "id_6804": ["Subtle"],
         // A discount for purchase in bulk
@@ -835,6 +845,12 @@ QUIRK_CHANGES = {
         "id_29957": ["Austere"],
         // Solving a case: ask the spies of London
         "id_29958": ["Subtle"],
+        // Turn in the poet to the authorities
+        "id_30173": ["Steadfast"],
+        // Go to the authorities, but warn the Poet first
+        "id_30174": ["Magnanimous"],
+        // Warn the revolutionaries that the poet is being investigated
+        "id_30175": ["Ruthless"],
         // Approach him boastfully
         "id_30349": ["Forceful"],
         // Approach him humbly
@@ -1133,7 +1149,7 @@ QUIRK_CHANGES = {
         "id_162805": ["Subtle"],
         // The quiet memory of Above
         "id_162907": ["Melancholy"],
-        // Smack sense into him
+        // Manoeuvre him into an armchair
         "id_162908": ["Ruthless"],
         // Reclaim your story
         "id_162909": ["Steadfast"],
@@ -1523,6 +1539,8 @@ QUIRK_CHANGES = {
         "id_235653": ["Magnanimous"],
         // Blackmail her
         "id_235946": ["Ruthless"],
+        // Making your Name: blackmail her
+        "id_235947": ["Ruthless"],
         // Dress like Mr Veils on a Good Day
         "id_236254": ["Subtle"],
         // A lamentation in the style of the Celestials
@@ -1699,12 +1717,18 @@ QUIRK_CHANGES = {
         "id_254844": ["Subtle"],
         // A protégé in the arts
         "id_255288": ["Melancholy"],
+        // Push him into the river
+        "id_257964": ["Heartless"],
     },
     "Loses": {
         // Brawl with street fighters
         "id_4258": ["Subtle"],
         // Learn a few tricks from a Gallows Poet
         "id_4259": ["Austere"],
+        // Pick pockets with the urchins
+        "id_4262": ["Melancholy"],
+        // Take a stroll around Tyrant's Gardens
+        "id_4265": ["Steadfast"],
         // Perhaps you can help
         "id_4389": ["Magnanimous"],
         // Knock on the Melancholy Curate's door
@@ -1877,8 +1901,12 @@ QUIRK_CHANGES = {
         "id_6776": ["Magnanimous"],
         // An evening with a Regal Actress
         "id_6790": ["Austere"],
+        // Run the rooftops with the urchins
+        "id_6797": ["Melancholy"],
         // Out you go, longshanks
         "id_6798": ["Melancholy"],
+        // Get some work done at Clathermont's tattoo parlour
+        "id_6803": ["Steadfast"],
         // Learn more at the carnival
         "id_6804": ["Steadfast"],
         // Ride out ahead
@@ -2175,7 +2203,7 @@ QUIRK_CHANGES = {
         "id_162805": ["Forceful"],
         // The quiet memory of Above
         "id_162907": ["Heartless"],
-        // Smack sense into him
+        // Manoeuvre him into an armchair
         "id_162908": ["Magnanimous"],
         // Reclaim your story
         "id_162909": ["Heartless"],
@@ -2527,6 +2555,8 @@ QUIRK_CHANGES = {
         "id_234326": ["Magnanimous"],
         // Blackmail her
         "id_235946": ["Magnanimous"],
+        // Making your Name: blackmail her
+        "id_235947": ["Magnanimous"],
         // A lamentation in the style of the Celestials
         "id_236738": ["Heartless"],
         // Revel in a sordid story, as is the Nocturnal fashion
@@ -2637,5 +2667,7 @@ QUIRK_CHANGES = {
         "id_254843": ["Magnanimous"],
         // Keep Jenny's secrets - for a price (Waswood)
         "id_254844": ["Steadfast"],
+        // Push him into the river
+        "id_257964": ["Magnanimous"],
     }
 }

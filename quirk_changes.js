@@ -1517,6 +1517,10 @@ QUIRK_CHANGES = {
         "id_210562": ["Austere"],
         // Greet his Majesty the Prince, and the Court
         "id_211018": ["Austere"],
+        // Go about your business 2
+        "id_211464": ["Steadfast"],
+        // Play with your weasels
+        "id_211469": ["Hedonist"],
         // Consult the lead's Opinions
         "id_211606": ["Hedonist"],
         // Consult the lead's Opinions
@@ -1719,6 +1723,10 @@ QUIRK_CHANGES = {
         "id_255288": ["Melancholy"],
         // Push him into the river
         "id_257964": ["Heartless"],
+        // "Reverend Professor Major Sir Henry Winthrop-Smythe."
+        "id_258877": ["Steadfast"],
+        // "Sir Smythe."
+        "id_258878": ["Subtle"],
     },
     "Loses": {
         // Brawl with street fighters
@@ -2543,6 +2551,10 @@ QUIRK_CHANGES = {
         "id_210562": ["Hedonist"],
         // Greet his Majesty the Prince, and the Court
         "id_211018": ["Daring"],
+        // Go about your business 2
+        "id_211464": ["Forceful"],
+        // Play with your weasels
+        "id_211469": ["Austere"],
         // Consult the lead's Opinions
         "id_211606": ["Austere"],
         // Consult the lead's Opinions
@@ -2595,8 +2607,6 @@ QUIRK_CHANGES = {
         "id_238119": ["Heartless"],
         // Retribution
         "id_238186": ["Subtle"],
-        // Rescue
-        "id_238187": ["Subtle"],
         // RSVP
         "id_238188": ["Forceful"],
         // Hand it over to Mr Fires
@@ -2669,5 +2679,9 @@ QUIRK_CHANGES = {
         "id_254844": ["Steadfast"],
         // Push him into the river
         "id_257964": ["Magnanimous"],
+        // "Reverend Professor Major Sir Henry Winthrop-Smythe."
+        "id_258877": ["Subtle"],
+        // "Sir Smythe."
+        "id_258878": ["Steadfast"],
     }
 }

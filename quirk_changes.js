@@ -207,7 +207,7 @@ QUIRK_CHANGES = {
         "id_5601": ["Ruthless"],
         // Drown her beneath oily grey waters
         "id_5605": ["Ruthless"],
-        // Refuse
+        // Refuse (the mob)
         "id_5608": ["Magnanimous", "Subtle"],
         // No, perhaps you can actually help
         "id_5610": ["Magnanimous"],
@@ -399,7 +399,7 @@ QUIRK_CHANGES = {
         "id_6327": ["Steadfast"],
         // Wave him off
         "id_6344": ["Melancholy"],
-        // Talk him out of it
+        // Talk him out of it 1
         "id_6345": ["Magnanimous"],
         // Choose something light
         "id_6356": ["Hedonist"],
@@ -757,11 +757,11 @@ QUIRK_CHANGES = {
         "id_9319": ["Forceful"],
         // A start towards getting an education
         "id_9320": ["Steadfast"],
-        // The Nocturnals
+        // The Nocturnals 1
         "id_9322": ["Forceful"],
-        // The Bazaarines
+        // The Bazaarines 1
         "id_9323": ["Ruthless"],
-        // The Celestials
+        // The Celestials 1
         "id_9324": ["Austere"],
         // Attend and perform
         "id_9327": ["Hedonist"],
@@ -851,10 +851,6 @@ QUIRK_CHANGES = {
         "id_30174": ["Magnanimous"],
         // Warn the revolutionaries that the poet is being investigated
         "id_30175": ["Ruthless"],
-        // Approach him boastfully
-        "id_30349": ["Forceful"],
-        // Approach him humbly
-        "id_30350": ["Subtle"],
         // The unquiet dead
         "id_31114": ["Daring"],
         // The unquiet dead, once more
@@ -1289,10 +1285,6 @@ QUIRK_CHANGES = {
         "id_165823": ["Magnanimous"],
         // Arrange an escape
         "id_167554": ["Steadfast"],
-        // Hand over your report to the Constables
-        "id_167946": ["Steadfast"],
-        // Forget the whole business
-        "id_167947": ["Austere"],
         // You went for a night of drinking
         "id_167964": ["Hedonist"],
         // You provided a lecture
@@ -1301,8 +1293,6 @@ QUIRK_CHANGES = {
         "id_167966": ["Daring", "Subtle"],
         // You went for a long walk to clear your head
         "id_167967": ["Melancholy"],
-        // Leave them to it
-        "id_169400": ["Melancholy"],
         // Decline 3
         "id_169879": ["Heartless"],
         // Buy their drinks, and listen to them reveal their secrets
@@ -1325,8 +1315,6 @@ QUIRK_CHANGES = {
         "id_169919": ["Ruthless"],
         // "Rats are people, too."
         "id_169920": ["Magnanimous"],
-        // Unveil the ratty conspiracy!
-        "id_169921": ["Forceful"],
         // On your face
         "id_169922": ["Daring"],
         // On your torso
@@ -1669,7 +1657,7 @@ QUIRK_CHANGES = {
         "id_247118": ["Steadfast"],
         // Tell him to bury the box
         "id_247119": ["Melancholy"],
-        // Enter the compartment - with the Hideous Promissory Note
+        // Enter the compartment – with the Hideous Promissory Note
         "id_247276": ["Daring", "Heartless"],
         // Return the Hideous Promissory Note
         "id_247277": ["Magnanimous", "Subtle"],
@@ -1723,10 +1711,30 @@ QUIRK_CHANGES = {
         "id_255288": ["Melancholy"],
         // Push him into the river
         "id_257964": ["Heartless"],
+        // Unveil the ratty conspiracy!
+        "id_258187": ["Forceful"],
+        // Approach him boastfully
+        "id_258425": ["Forceful"],
+        // Approach him humbly
+        "id_258426": ["Subtle"],
+        // Leave them to it
+        "id_258458": ["Melancholy"],
+        // Hand over your report to the Constables
+        "id_258522": ["Steadfast"],
+        // Forget the whole business
+        "id_258523": ["Austere"],
+        // Test the man's skills
+        "id_258610": ["Subtle"],
+        // Test the man's skills (confoundingly)
+        "id_258611": ["Austere"],
         // "Reverend Professor Major Sir Henry Winthrop-Smythe."
         "id_258877": ["Steadfast"],
         // "Sir Smythe."
         "id_258878": ["Subtle"],
+        // Truly, what a horrid idea! (Monocle)
+        "id_259069": ["Steadfast"],
+        // Truly, what a horrid idea! (Eye)
+        "id_259070": ["Subtle"],
     },
     "Loses": {
         // Brawl with street fighters
@@ -2375,8 +2383,6 @@ QUIRK_CHANGES = {
         "id_169919": ["Magnanimous"],
         // "Rats are people, too."
         "id_169920": ["Ruthless"],
-        // Unveil the ratty conspiracy!
-        "id_169921": ["Subtle"],
         // On your face
         "id_169922": ["Melancholy"],
         // On your torso
@@ -2679,6 +2685,8 @@ QUIRK_CHANGES = {
         "id_254844": ["Steadfast"],
         // Push him into the river
         "id_257964": ["Magnanimous"],
+        // Unveil the ratty conspiracy!
+        "id_258187": ["Subtle"],
         // "Reverend Professor Major Sir Henry Winthrop-Smythe."
         "id_258877": ["Subtle"],
         // "Sir Smythe."

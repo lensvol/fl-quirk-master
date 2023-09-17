@@ -207,7 +207,7 @@ QUIRK_CHANGES = {
         "id_5601": ["Ruthless"],
         // Drown her beneath oily grey waters
         "id_5605": ["Ruthless"],
-        // Refuse (the mob)
+        // Refuse (The Mob)
         "id_5608": ["Magnanimous", "Subtle"],
         // No, perhaps you can actually help
         "id_5610": ["Magnanimous"],
@@ -419,7 +419,7 @@ QUIRK_CHANGES = {
         "id_6368": ["Hedonist"],
         // Decline 2
         "id_6369": ["Austere"],
-        // Accept the gift
+        // Accept the gift (Devil)
         "id_6371": ["Hedonist"],
         // Decline 1
         "id_6372": ["Austere"],
@@ -493,7 +493,7 @@ QUIRK_CHANGES = {
         "id_6757": ["Ruthless"],
         // 'Golden Topper'
         "id_6768": ["Hedonist"],
-        // Sometimes you just can't help yourself
+        // Sometimes you just can’t help yourself
         "id_6769": ["Hedonist"],
         // A little extortion
         "id_6776": ["Ruthless"],
@@ -713,9 +713,9 @@ QUIRK_CHANGES = {
         "id_8774": ["Magnanimous"],
         // ...is confused by the cutlery
         "id_8775": ["Magnanimous"],
-        // ... has been cornered by spicily arrogant debutantes
+        // ...has been cornered by spicily arrogant débutantes
         "id_8779": ["Magnanimous"],
-        // Must... resist! Think... of waistline!
+        // Must...resist! Think...of waistline!
         "id_8786": ["Austere", "Hedonist"],
         // Help yourself
         "id_8787": ["Hedonist"],
@@ -757,11 +757,11 @@ QUIRK_CHANGES = {
         "id_9319": ["Forceful"],
         // A start towards getting an education
         "id_9320": ["Steadfast"],
-        // The Nocturnals 1
+        // The Nocturnals
         "id_9322": ["Forceful"],
-        // The Bazaarines 1
+        // The Bazaarines
         "id_9323": ["Ruthless"],
-        // The Celestials 1
+        // The Celestials
         "id_9324": ["Austere"],
         // Attend and perform
         "id_9327": ["Hedonist"],
@@ -851,6 +851,10 @@ QUIRK_CHANGES = {
         "id_30174": ["Magnanimous"],
         // Warn the revolutionaries that the poet is being investigated
         "id_30175": ["Ruthless"],
+        // Approach him boastfully
+        "id_30349": ["Forceful"],
+        // Approach him humbly
+        "id_30350": ["Subtle"],
         // The unquiet dead
         "id_31114": ["Daring"],
         // The unquiet dead, once more
@@ -1021,7 +1025,7 @@ QUIRK_CHANGES = {
         "id_123207": ["Austere"],
         // 'Naturally I seized the opportunity to extend my experience'
         "id_123208": ["Hedonist"],
-        // Move on 3
+        // Move on (Lilac)
         "id_123367": ["Steadfast"],
         // What is love to her?
         "id_123645": ["Forceful"],
@@ -1043,7 +1047,7 @@ QUIRK_CHANGES = {
         "id_128484": ["Magnanimous"],
         // Offer your services to the press gang
         "id_128485": ["Ruthless"],
-        // Let it go
+        // Let it go (Rats)
         "id_128498": ["Magnanimous"],
         // Even the odds in a clay dispute (5 FATE)
         "id_129494": ["Steadfast"],
@@ -1145,7 +1149,7 @@ QUIRK_CHANGES = {
         "id_162805": ["Subtle"],
         // The quiet memory of Above
         "id_162907": ["Melancholy"],
-        // Manoeuvre him into an armchair
+        // Smack sense into him
         "id_162908": ["Ruthless"],
         // Reclaim your story
         "id_162909": ["Steadfast"],
@@ -1285,6 +1289,10 @@ QUIRK_CHANGES = {
         "id_165823": ["Magnanimous"],
         // Arrange an escape
         "id_167554": ["Steadfast"],
+        // Hand over your report to the Constables
+        "id_167946": ["Steadfast"],
+        // Forget the whole business
+        "id_167947": ["Austere"],
         // You went for a night of drinking
         "id_167964": ["Hedonist"],
         // You provided a lecture
@@ -1293,6 +1301,8 @@ QUIRK_CHANGES = {
         "id_167966": ["Daring", "Subtle"],
         // You went for a long walk to clear your head
         "id_167967": ["Melancholy"],
+        // Leave them to it 1
+        "id_169400": ["Melancholy"],
         // Decline 3
         "id_169879": ["Heartless"],
         // Buy their drinks, and listen to them reveal their secrets
@@ -1315,6 +1325,8 @@ QUIRK_CHANGES = {
         "id_169919": ["Ruthless"],
         // "Rats are people, too."
         "id_169920": ["Magnanimous"],
+        // Unveil the ratty conspiracy!
+        "id_169921": ["Forceful"],
         // On your face
         "id_169922": ["Daring"],
         // On your torso
@@ -1345,7 +1357,7 @@ QUIRK_CHANGES = {
         "id_169946": ["Subtle"],
         // A hyena
         "id_169947": ["Hedonist"],
-        // None of them! (Labyrinth exhibits)
+        // None of them!2
         "id_169948": ["Austere"],
         // The School of Hard Knocks (Patch)
         "id_170201": ["Ruthless"],
@@ -1357,7 +1369,7 @@ QUIRK_CHANGES = {
         "id_170204": ["Forceful"],
         // Sell the letter to the highest bidder
         "id_171488": ["Hedonist"],
-        // Keep it to yourself 2
+        // Keep it to yourself (Secrets)
         "id_171491": ["Subtle"],
         // Trade it for something more practical
         "id_171492": ["Heartless"],
@@ -1505,9 +1517,9 @@ QUIRK_CHANGES = {
         "id_210562": ["Austere"],
         // Greet his Majesty the Prince, and the Court
         "id_211018": ["Austere"],
-        // Go about your business 2
+        // Go about your business (weasels)
         "id_211464": ["Steadfast"],
-        // Play with your weasels
+        // Play with your weasels (purchased)
         "id_211469": ["Hedonist"],
         // Consult the lead's Opinions
         "id_211606": ["Hedonist"],
@@ -1633,7 +1645,7 @@ QUIRK_CHANGES = {
         "id_245752": ["Austere"],
         // Get word to the Smuggler
         "id_245753": ["Steadfast"],
-        // Dose yourself with the Curatorial Cocktail
+        // Dose yourself with the Curatorial Cocktail (Robe)
         "id_245950": ["Ruthless", "Heartless"],
         // Forgive and Forget
         "id_246115": ["Magnanimous"],
@@ -1657,7 +1669,7 @@ QUIRK_CHANGES = {
         "id_247118": ["Steadfast"],
         // Tell him to bury the box
         "id_247119": ["Melancholy"],
-        // Enter the compartment – with the Hideous Promissory Note
+        // Enter the compartment - with the Hideous Promissory Note
         "id_247276": ["Daring", "Heartless"],
         // Return the Hideous Promissory Note
         "id_247277": ["Magnanimous", "Subtle"],
@@ -1711,22 +1723,6 @@ QUIRK_CHANGES = {
         "id_255288": ["Melancholy"],
         // Push him into the river
         "id_257964": ["Heartless"],
-        // Unveil the ratty conspiracy!
-        "id_258187": ["Forceful"],
-        // Approach him boastfully
-        "id_258425": ["Forceful"],
-        // Approach him humbly
-        "id_258426": ["Subtle"],
-        // Leave them to it
-        "id_258458": ["Melancholy"],
-        // Hand over your report to the Constables
-        "id_258522": ["Steadfast"],
-        // Forget the whole business
-        "id_258523": ["Austere"],
-        // Test the man's skills
-        "id_258610": ["Subtle"],
-        // Test the man's skills (confoundingly)
-        "id_258611": ["Austere"],
         // "Reverend Professor Major Sir Henry Winthrop-Smythe."
         "id_258877": ["Steadfast"],
         // "Sir Smythe."
@@ -1981,7 +1977,7 @@ QUIRK_CHANGES = {
         "id_8740": ["Austere"],
         // The clingy octogenarian
         "id_8741": ["Hedonist"],
-        // Must... resist! Think... of waistline!
+        // Must...resist! Think...of waistline!
         "id_8786": ["Austere", "Hedonist"],
         // Help yourself
         "id_8787": ["Austere"],
@@ -2155,7 +2151,7 @@ QUIRK_CHANGES = {
         "id_123212": ["Austere"],
         // Tell him
         "id_123366": ["Steadfast"],
-        // Move on 3
+        // Move on (Lilac)
         "id_123367": ["Subtle"],
         // Close your Orphanage
         "id_124766": ["Magnanimous"],
@@ -2167,7 +2163,7 @@ QUIRK_CHANGES = {
         "id_128484": ["Ruthless"],
         // Offer your services to the press gang
         "id_128485": ["Magnanimous"],
-        // Let it go
+        // Let it go (Rats)
         "id_128498": ["Heartless"],
         // Emancipate a Clay Man
         "id_129495": ["Ruthless"],
@@ -2219,7 +2215,7 @@ QUIRK_CHANGES = {
         "id_162805": ["Forceful"],
         // The quiet memory of Above
         "id_162907": ["Heartless"],
-        // Manoeuvre him into an armchair
+        // Smack sense into him
         "id_162908": ["Magnanimous"],
         // Reclaim your story
         "id_162909": ["Heartless"],
@@ -2383,6 +2379,8 @@ QUIRK_CHANGES = {
         "id_169919": ["Magnanimous"],
         // "Rats are people, too."
         "id_169920": ["Ruthless"],
+        // Unveil the ratty conspiracy!
+        "id_169921": ["Subtle"],
         // On your face
         "id_169922": ["Melancholy"],
         // On your torso
@@ -2413,7 +2411,7 @@ QUIRK_CHANGES = {
         "id_169946": ["Steadfast"],
         // A hyena
         "id_169947": ["Austere"],
-        // None of them! (Labyrinth exhibits)
+        // None of them!2
         "id_169948": ["Hedonist"],
         // The School of Hard Knocks (Patch)
         "id_170201": ["Steadfast"],
@@ -2425,7 +2423,7 @@ QUIRK_CHANGES = {
         "id_170204": ["Austere"],
         // Sell the letter to the highest bidder
         "id_171488": ["Austere"],
-        // Keep it to yourself 2
+        // Keep it to yourself (Secrets)
         "id_171491": ["Forceful"],
         // Trade it for something more practical
         "id_171492": ["Magnanimous"],
@@ -2557,9 +2555,9 @@ QUIRK_CHANGES = {
         "id_210562": ["Hedonist"],
         // Greet his Majesty the Prince, and the Court
         "id_211018": ["Daring"],
-        // Go about your business 2
+        // Go about your business (weasels)
         "id_211464": ["Forceful"],
-        // Play with your weasels
+        // Play with your weasels (purchased)
         "id_211469": ["Austere"],
         // Consult the lead's Opinions
         "id_211606": ["Austere"],
@@ -2613,6 +2611,8 @@ QUIRK_CHANGES = {
         "id_238119": ["Heartless"],
         // Retribution
         "id_238186": ["Subtle"],
+        // Rescue
+        "id_238187": ["Subtle"],
         // RSVP
         "id_238188": ["Forceful"],
         // Hand it over to Mr Fires
@@ -2639,7 +2639,7 @@ QUIRK_CHANGES = {
         "id_245752": ["Steadfast"],
         // Get word to the Smuggler
         "id_245753": ["Austere"],
-        // Dose yourself with the Curatorial Cocktail
+        // Dose yourself with the Curatorial Cocktail (Robe)
         "id_245950": ["Magnanimous"],
         // Forgive and Forget
         "id_246115": ["Ruthless"],
@@ -2685,8 +2685,6 @@ QUIRK_CHANGES = {
         "id_254844": ["Steadfast"],
         // Push him into the river
         "id_257964": ["Magnanimous"],
-        // Unveil the ratty conspiracy!
-        "id_258187": ["Subtle"],
         // "Reverend Professor Major Sir Henry Winthrop-Smythe."
         "id_258877": ["Subtle"],
         // "Sir Smythe."

@@ -48,7 +48,7 @@ if __name__ == "__main__":
                 destination = gains if category == "Gains" else loses
                 quirk_changes = destination.setdefault(branch_id, [])
                 if quirk not in quirk_changes:
-                    quirks.append(quirk)
+                    quirk_changes.append(quirk)
 
     with open("quirk_changes.js", "w") as fp:
         fp.write(

@@ -1149,8 +1149,8 @@ QUIRK_CHANGES = {
         "id_162805": ["Subtle"],
         // The quiet memory of Above
         "id_162907": ["Melancholy"],
-        // Smack sense into him
-        "id_162908": ["Ruthless"],
+        // Manoeuvre him into an armchair
+        "id_162908": ["Ruthless", "Forceful"],
         // Reclaim your story
         "id_162909": ["Steadfast"],
         // Engage them with a different tune
@@ -1723,6 +1723,10 @@ QUIRK_CHANGES = {
         "id_255288": ["Melancholy"],
         // Push him into the river
         "id_257964": ["Heartless"],
+        // Test the man's skills
+        "id_258610": ["Subtle"],
+        // Test the man's skills (confoundingly)
+        "id_258611": ["Austere"],
         // "Reverend Professor Major Sir Henry Winthrop-Smythe."
         "id_258877": ["Steadfast"],
         // "Sir Smythe."
@@ -2215,8 +2219,8 @@ QUIRK_CHANGES = {
         "id_162805": ["Forceful"],
         // The quiet memory of Above
         "id_162907": ["Heartless"],
-        // Smack sense into him
-        "id_162908": ["Magnanimous"],
+        // Manoeuvre him into an armchair
+        "id_162908": ["Magnanimous", "Heartless"],
         // Reclaim your story
         "id_162909": ["Heartless"],
         // Engage them with a different tune

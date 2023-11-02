@@ -1055,6 +1055,8 @@ QUIRK_CHANGES = {
         "id_129495": ["Magnanimous"],
         // Recruit Clay Man labour
         "id_129496": ["Ruthless"],
+        // Attend a lecture on 'spiritual hygiene' (7 FATE)
+        "id_130665": ["Hedonist"],
         // Be unmoving
         "id_131928": ["Austere"],
         // Employ fishermen's tricks
@@ -1735,6 +1737,8 @@ QUIRK_CHANGES = {
         "id_259069": ["Steadfast"],
         // Truly, what a horrid idea! (Eye)
         "id_259070": ["Subtle"],
+        // Breeze past
+        "id_262064": ["Austere"],
     },
     "Loses": {
         // Brawl with street fighters
@@ -2693,5 +2697,7 @@ QUIRK_CHANGES = {
         "id_258877": ["Subtle"],
         // "Sir Smythe."
         "id_258878": ["Steadfast"],
+        // Breeze past
+        "id_262064": ["Hedonist"],
     }
 }

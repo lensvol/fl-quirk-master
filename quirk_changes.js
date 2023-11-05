@@ -919,6 +919,8 @@ QUIRK_CHANGES = {
         "id_116059": ["Subtle"],
         // Serve wine with bitter herbs
         "id_116062": ["Austere"],
+        // Attend a lecture on 'spiritual hygiene' (7 FATE)
+        "id_116065": ["Hedonist"],
         // Ensure she never troubles you again 2
         "id_119345": ["Ruthless"],
         // Search the shore
@@ -1055,8 +1057,6 @@ QUIRK_CHANGES = {
         "id_129495": ["Magnanimous"],
         // Recruit Clay Man labour
         "id_129496": ["Ruthless"],
-        // Attend a lecture on 'spiritual hygiene' (7 FATE)
-        "id_130665": ["Hedonist"],
         // Be unmoving
         "id_131928": ["Austere"],
         // Employ fishermen's tricks

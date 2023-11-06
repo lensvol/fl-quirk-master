@@ -1,0 +1,28 @@
+name: Track UI changes
+
+on:
+  schedule:
+    - cron: '7 7 * * *'
+
+jobs:
+  check-for-changes:
+    runs-on: ubuntu-latest
+    name: Commit any changes to Quirk gains\losses
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Check for changes in Wiki
+        run: python3 wiki_dumper.py
+        shell: sh
+      - name: Extract last commit's timestamp
+        run: echo "LAST_TS=$(git log -1 --format="%at" | xargs -I{} date -d @{} +'%d.%m.%Y %H:%M:%S')" >> $GITHUB_ENV
+      - name: Echo timestamp variable
+        run: echo $LAST_TS
+      - name: Commit any changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "UPDATE: Data changes from Wiki since ${{ env.LAST_TS }}"
+          file_pattern: "quirk_changes.js"
+          skip_fetch: true
+          skip_checkout: true
+

@@ -1,4 +1,4 @@
-name: Track UI changes
+name: Track changes in Quirk gains\losses on Wiki
 
 on:
   schedule:

@@ -22,7 +22,7 @@ if __name__ == "__main__":
     loses = {}
     ids_to_titles = {}
 
-    for (category, quirk) in product(CATEGORIES, QUIRKS):
+    for category, quirk in product(CATEGORIES, QUIRKS):
         print(f"Dumping data for {category}:{quirk}")
 
         data = parse.urlencode(
@@ -75,3 +75,18 @@ if __name__ == "__main__":
             fp.write(f'        "id_{branch_id}": [{serialized_quirks}],\n')
         fp.write("    }\n")
         fp.write("}\n")
+
+    with open("quirk_changes.json", "w") as fp:
+        json.dump(
+            {
+                "Gains": gains,
+                "Loses": loses,
+                "__meta__": {
+                    "disclaimer": "This information was compiled using data submitted to the 'Fallen London Wiki'"
+                    " (https://fallenlondon.wiki) by its contributors and is used here under CC-BY-SA 3.0 license "
+                    "(https://creativecommons.org/licenses/by-sa/3.0/)"
+                }
+            },
+            fp,
+            indent=4,
+        )

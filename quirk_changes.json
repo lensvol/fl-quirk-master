@@ -1,0 +1,4124 @@
+{
+    "Gains": {
+        "171496": [
+            "Austere"
+        ],
+        "123199": [
+            "Austere"
+        ],
+        "125062": [
+            "Austere"
+        ],
+        "123201": [
+            "Austere"
+        ],
+        "123207": [
+            "Austere"
+        ],
+        "123181": [
+            "Austere"
+        ],
+        "123191": [
+            "Austere",
+            "Melancholy"
+        ],
+        "123170": [
+            "Austere"
+        ],
+        "123183": [
+            "Austere"
+        ],
+        "121248": [
+            "Austere"
+        ],
+        "246180": [
+            "Austere"
+        ],
+        "10080": [
+            "Austere"
+        ],
+        "7095": [
+            "Austere",
+            "Steadfast"
+        ],
+        "6993": [
+            "Austere"
+        ],
+        "5963": [
+            "Austere"
+        ],
+        "247477": [
+            "Austere"
+        ],
+        "123195": [
+            "Austere"
+        ],
+        "10169": [
+            "Austere"
+        ],
+        "38325": [
+            "Austere"
+        ],
+        "6392": [
+            "Austere"
+        ],
+        "6322": [
+            "Austere"
+        ],
+        "6372": [
+            "Austere"
+        ],
+        "6369": [
+            "Austere"
+        ],
+        "10357": [
+            "Austere"
+        ],
+        "163638": [
+            "Austere"
+        ],
+        "8950": [
+            "Austere"
+        ],
+        "8952": [
+            "Austere"
+        ],
+        "8951": [
+            "Austere"
+        ],
+        "167947": [
+            "Austere"
+        ],
+        "8184": [
+            "Austere"
+        ],
+        "245752": [
+            "Austere"
+        ],
+        "211018": [
+            "Austere"
+        ],
+        "6444": [
+            "Austere"
+        ],
+        "171776": [
+            "Austere"
+        ],
+        "10358": [
+            "Austere",
+            "Daring",
+            "Ruthless",
+            "Forceful"
+        ],
+        "123187": [
+            "Austere"
+        ],
+        "6446": [
+            "Austere"
+        ],
+        "171778": [
+            "Austere"
+        ],
+        "204321": [
+            "Austere"
+        ],
+        "169882": [
+            "Austere"
+        ],
+        "10093": [
+            "Austere",
+            "Heartless"
+        ],
+        "6294": [
+            "Austere"
+        ],
+        "7187": [
+            "Austere"
+        ],
+        "210562": [
+            "Austere"
+        ],
+        "10249": [
+            "Austere"
+        ],
+        "248598": [
+            "Austere"
+        ],
+        "8786": [
+            "Austere",
+            "Hedonist"
+        ],
+        "169948": [
+            "Austere"
+        ],
+        "9328": [
+            "Austere"
+        ],
+        "164827": [
+            "Austere"
+        ],
+        "6042": [
+            "Austere"
+        ],
+        "6045": [
+            "Austere"
+        ],
+        "120911": [
+            "Austere"
+        ],
+        "29957": [
+            "Austere"
+        ],
+        "6373": [
+            "Austere"
+        ],
+        "258611": [
+            "Austere"
+        ],
+        "9324": [
+            "Austere"
+        ],
+        "164836": [
+            "Austere"
+        ],
+        "8741": [
+            "Austere"
+        ],
+        "8183": [
+            "Austere"
+        ],
+        "7967": [
+            "Austere"
+        ],
+        "7963": [
+            "Austere",
+            "Magnanimous"
+        ],
+        "245707": [
+            "Austere",
+            "Melancholy",
+            "Steadfast"
+        ],
+        "163630": [
+            "Austere"
+        ],
+        "169926": [
+            "Austere"
+        ],
+        "8029": [
+            "Austere"
+        ],
+        "6039": [
+            "Austere"
+        ],
+        "177730": [
+            "Austere"
+        ],
+        "131928": [
+            "Austere"
+        ],
+        "190857": [
+            "Austere"
+        ],
+        "131954": [
+            "Austere"
+        ],
+        "116062": [
+            "Austere"
+        ],
+        "134619": [
+            "Austere"
+        ],
+        "262064": [
+            "Austere"
+        ],
+        "173445": [
+            "Austere"
+        ],
+        "171754": [
+            "Daring"
+        ],
+        "5099": [
+            "Daring"
+        ],
+        "5073": [
+            "Daring"
+        ],
+        "169945": [
+            "Daring"
+        ],
+        "5082": [
+            "Daring"
+        ],
+        "5056": [
+            "Daring"
+        ],
+        "238408": [
+            "Daring"
+        ],
+        "8742": [
+            "Daring"
+        ],
+        "196600": [
+            "Daring"
+        ],
+        "171546": [
+            "Daring"
+        ],
+        "4258": [
+            "Daring"
+        ],
+        "249831": [
+            "Daring"
+        ],
+        "173619": [
+            "Daring"
+        ],
+        "164842": [
+            "Daring"
+        ],
+        "238307": [
+            "Daring"
+        ],
+        "38324": [
+            "Daring"
+        ],
+        "204325": [
+            "Daring"
+        ],
+        "162944": [
+            "Daring"
+        ],
+        "247276": [
+            "Daring",
+            "Heartless"
+        ],
+        "8955": [
+            "Daring"
+        ],
+        "8953": [
+            "Daring"
+        ],
+        "8954": [
+            "Daring"
+        ],
+        "169933": [
+            "Daring"
+        ],
+        "5846": [
+            "Daring",
+            "Hedonist"
+        ],
+        "246839": [
+            "Daring"
+        ],
+        "162953": [
+            "Daring"
+        ],
+        "5245": [
+            "Daring"
+        ],
+        "10168": [
+            "Daring"
+        ],
+        "169922": [
+            "Daring"
+        ],
+        "6798": [
+            "Daring"
+        ],
+        "162940": [
+            "Daring"
+        ],
+        "4262": [
+            "Daring"
+        ],
+        "163640": [
+            "Daring"
+        ],
+        "4466": [
+            "Daring"
+        ],
+        "7054": [
+            "Daring"
+        ],
+        "169881": [
+            "Daring"
+        ],
+        "48069": [
+            "Daring"
+        ],
+        "171786": [
+            "Daring"
+        ],
+        "238187": [
+            "Daring"
+        ],
+        "120924": [
+            "Daring"
+        ],
+        "163633": [
+            "Daring"
+        ],
+        "6797": [
+            "Daring"
+        ],
+        "6289": [
+            "Daring"
+        ],
+        "6290": [
+            "Daring"
+        ],
+        "237549": [
+            "Daring"
+        ],
+        "147659": [
+            "Daring"
+        ],
+        "63710": [
+            "Daring"
+        ],
+        "247306": [
+            "Daring"
+        ],
+        "5242": [
+            "Daring"
+        ],
+        "29953": [
+            "Daring"
+        ],
+        "5430": [
+            "Daring",
+            "Hedonist"
+        ],
+        "5480": [
+            "Daring"
+        ],
+        "169885": [
+            "Daring"
+        ],
+        "8423": [
+            "Daring"
+        ],
+        "162958": [
+            "Daring"
+        ],
+        "16484": [
+            "Daring"
+        ],
+        "31114": [
+            "Daring"
+        ],
+        "31119": [
+            "Daring"
+        ],
+        "157373": [
+            "Daring"
+        ],
+        "121210": [
+            "Daring"
+        ],
+        "138750": [
+            "Daring"
+        ],
+        "245708": [
+            "Daring",
+            "Ruthless",
+            "Heartless",
+            "Forceful"
+        ],
+        "120919": [
+            "Daring"
+        ],
+        "211750": [
+            "Daring"
+        ],
+        "169927": [
+            "Daring"
+        ],
+        "162913": [
+            "Daring"
+        ],
+        "48457": [
+            "Daring"
+        ],
+        "164840": [
+            "Daring",
+            "Subtle"
+        ],
+        "167966": [
+            "Daring",
+            "Subtle"
+        ],
+        "164839": [
+            "Daring",
+            "Subtle"
+        ],
+        "167965": [
+            "Daring",
+            "Subtle"
+        ],
+        "162915": [
+            "Daring"
+        ],
+        "164832": [
+            "Daring"
+        ],
+        "164838": [
+            "Daring"
+        ],
+        "171497": [
+            "Daring"
+        ],
+        "131957": [
+            "Daring"
+        ],
+        "190860": [
+            "Daring"
+        ],
+        "173446": [
+            "Daring"
+        ],
+        "170203": [
+            "Daring"
+        ],
+        "125061": [
+            "Hedonist"
+        ],
+        "6768": [
+            "Hedonist"
+        ],
+        "123200": [
+            "Hedonist"
+        ],
+        "123169": [
+            "Hedonist"
+        ],
+        "123180": [
+            "Hedonist"
+        ],
+        "123190": [
+            "Hedonist"
+        ],
+        "123182": [
+            "Hedonist"
+        ],
+        "123208": [
+            "Hedonist"
+        ],
+        "123206": [
+            "Hedonist"
+        ],
+        "121323": [
+            "Hedonist"
+        ],
+        "121326": [
+            "Hedonist"
+        ],
+        "121324": [
+            "Hedonist"
+        ],
+        "6049": [
+            "Hedonist"
+        ],
+        "6811": [
+            "Hedonist"
+        ],
+        "8179": [
+            "Hedonist"
+        ],
+        "14504": [
+            "Hedonist"
+        ],
+        "247478": [
+            "Hedonist"
+        ],
+        "169947": [
+            "Hedonist"
+        ],
+        "6044": [
+            "Hedonist"
+        ],
+        "6041": [
+            "Hedonist"
+        ],
+        "6371": [
+            "Hedonist"
+        ],
+        "6043": [
+            "Hedonist"
+        ],
+        "5435": [
+            "Hedonist",
+            "Subtle"
+        ],
+        "4857": [
+            "Hedonist"
+        ],
+        "10079": [
+            "Hedonist"
+        ],
+        "6104": [
+            "Hedonist"
+        ],
+        "6790": [
+            "Hedonist"
+        ],
+        "123194": [
+            "Hedonist"
+        ],
+        "8639": [
+            "Hedonist"
+        ],
+        "123186": [
+            "Hedonist"
+        ],
+        "162912": [
+            "Hedonist"
+        ],
+        "7581": [
+            "Hedonist"
+        ],
+        "6368": [
+            "Hedonist"
+        ],
+        "9327": [
+            "Hedonist"
+        ],
+        "7580": [
+            "Hedonist"
+        ],
+        "6622": [
+            "Hedonist"
+        ],
+        "171541": [
+            "Hedonist"
+        ],
+        "7185": [
+            "Hedonist"
+        ],
+        "6375": [
+            "Hedonist"
+        ],
+        "249830": [
+            "Hedonist"
+        ],
+        "238308": [
+            "Hedonist"
+        ],
+        "6276": [
+            "Hedonist"
+        ],
+        "162939": [
+            "Hedonist"
+        ],
+        "6167": [
+            "Hedonist"
+        ],
+        "6357": [
+            "Hedonist"
+        ],
+        "6356": [
+            "Hedonist"
+        ],
+        "8744": [
+            "Hedonist"
+        ],
+        "211607": [
+            "Hedonist"
+        ],
+        "211606": [
+            "Hedonist"
+        ],
+        "4720": [
+            "Hedonist"
+        ],
+        "162914": [
+            "Hedonist"
+        ],
+        "5106": [
+            "Hedonist"
+        ],
+        "6274": [
+            "Hedonist"
+        ],
+        "7155": [
+            "Hedonist"
+        ],
+        "162910": [
+            "Hedonist"
+        ],
+        "204324": [
+            "Hedonist"
+        ],
+        "5131": [
+            "Hedonist"
+        ],
+        "171549": [
+            "Hedonist"
+        ],
+        "10239": [
+            "Hedonist"
+        ],
+        "4525": [
+            "Hedonist"
+        ],
+        "4395": [
+            "Hedonist"
+        ],
+        "6275": [
+            "Hedonist"
+        ],
+        "9332": [
+            "Hedonist"
+        ],
+        "9331": [
+            "Hedonist"
+        ],
+        "6110": [
+            "Hedonist"
+        ],
+        "163632": [
+            "Hedonist"
+        ],
+        "5927": [
+            "Hedonist"
+        ],
+        "8787": [
+            "Hedonist"
+        ],
+        "7968": [
+            "Hedonist"
+        ],
+        "123202": [
+            "Hedonist"
+        ],
+        "6744": [
+            "Hedonist"
+        ],
+        "10165": [
+            "Hedonist"
+        ],
+        "7578": [
+            "Hedonist"
+        ],
+        "6366": [
+            "Hedonist"
+        ],
+        "6367": [
+            "Hedonist"
+        ],
+        "247839": [
+            "Hedonist"
+        ],
+        "6155": [
+            "Hedonist",
+            "Ruthless"
+        ],
+        "6278": [
+            "Hedonist"
+        ],
+        "6443": [
+            "Hedonist"
+        ],
+        "171775": [
+            "Hedonist"
+        ],
+        "5674": [
+            "Hedonist"
+        ],
+        "4719": [
+            "Hedonist"
+        ],
+        "4718": [
+            "Hedonist"
+        ],
+        "8182": [
+            "Hedonist"
+        ],
+        "4259": [
+            "Hedonist"
+        ],
+        "8025": [
+            "Hedonist"
+        ],
+        "237562": [
+            "Hedonist"
+        ],
+        "6277": [
+            "Hedonist"
+        ],
+        "5061": [
+            "Hedonist"
+        ],
+        "9285": [
+            "Hedonist"
+        ],
+        "211469": [
+            "Hedonist"
+        ],
+        "10356": [
+            "Hedonist"
+        ],
+        "162949": [
+            "Hedonist"
+        ],
+        "8181": [
+            "Hedonist"
+        ],
+        "120914": [
+            "Hedonist"
+        ],
+        "6374": [
+            "Hedonist"
+        ],
+        "236739": [
+            "Hedonist"
+        ],
+        "169925": [
+            "Hedonist"
+        ],
+        "5593": [
+            "Hedonist"
+        ],
+        "6296": [
+            "Hedonist"
+        ],
+        "7067": [
+            "Hedonist"
+        ],
+        "6577": [
+            "Hedonist"
+        ],
+        "210553": [
+            "Hedonist"
+        ],
+        "171488": [
+            "Hedonist"
+        ],
+        "10359": [
+            "Hedonist",
+            "Magnanimous",
+            "Melancholy",
+            "Subtle"
+        ],
+        "6769": [
+            "Hedonist"
+        ],
+        "6528": [
+            "Hedonist"
+        ],
+        "151408": [
+            "Hedonist"
+        ],
+        "6116": [
+            "Hedonist"
+        ],
+        "8740": [
+            "Hedonist"
+        ],
+        "9318": [
+            "Hedonist"
+        ],
+        "162947": [
+            "Hedonist"
+        ],
+        "8180": [
+            "Hedonist"
+        ],
+        "6279": [
+            "Hedonist"
+        ],
+        "8381": [
+            "Hedonist"
+        ],
+        "245710": [
+            "Hedonist",
+            "Magnanimous",
+            "Subtle"
+        ],
+        "163635": [
+            "Hedonist"
+        ],
+        "203970": [
+            "Hedonist"
+        ],
+        "5478": [
+            "Hedonist"
+        ],
+        "6040": [
+            "Hedonist"
+        ],
+        "7971": [
+            "Hedonist",
+            "Heartless"
+        ],
+        "5105": [
+            "Hedonist"
+        ],
+        "177729": [
+            "Hedonist"
+        ],
+        "162911": [
+            "Hedonist"
+        ],
+        "167964": [
+            "Hedonist"
+        ],
+        "5487": [
+            "Hedonist"
+        ],
+        "134620": [
+            "Hedonist"
+        ],
+        "116065": [
+            "Hedonist"
+        ],
+        "120730": [
+            "Hedonist"
+        ],
+        "7627": [
+            "Hedonist"
+        ],
+        "35569": [
+            "Hedonist"
+        ],
+        "131955": [
+            "Hedonist"
+        ],
+        "7626": [
+            "Hedonist"
+        ],
+        "5500": [
+            "Hedonist"
+        ],
+        "254801": [
+            "Hedonist"
+        ],
+        "169920": [
+            "Magnanimous"
+        ],
+        "8779": [
+            "Magnanimous"
+        ],
+        "171753": [
+            "Magnanimous"
+        ],
+        "8775": [
+            "Magnanimous"
+        ],
+        "8774": [
+            "Magnanimous"
+        ],
+        "9343": [
+            "Magnanimous"
+        ],
+        "5071": [
+            "Magnanimous"
+        ],
+        "6613": [
+            "Magnanimous"
+        ],
+        "238119": [
+            "Magnanimous"
+        ],
+        "206810": [
+            "Magnanimous"
+        ],
+        "204300": [
+            "Magnanimous"
+        ],
+        "8640": [
+            "Magnanimous"
+        ],
+        "244135": [
+            "Magnanimous"
+        ],
+        "5464": [
+            "Magnanimous"
+        ],
+        "5427": [
+            "Magnanimous"
+        ],
+        "5638": [
+            "Magnanimous"
+        ],
+        "63332": [
+            "Magnanimous"
+        ],
+        "5652": [
+            "Magnanimous"
+        ],
+        "163631": [
+            "Magnanimous"
+        ],
+        "128484": [
+            "Magnanimous"
+        ],
+        "4391": [
+            "Magnanimous"
+        ],
+        "171749": [
+            "Magnanimous"
+        ],
+        "171493": [
+            "Magnanimous"
+        ],
+        "5526": [
+            "Magnanimous"
+        ],
+        "165822": [
+            "Magnanimous"
+        ],
+        "165823": [
+            "Magnanimous"
+        ],
+        "5700": [
+            "Magnanimous"
+        ],
+        "204334": [
+            "Magnanimous"
+        ],
+        "48068": [
+            "Magnanimous"
+        ],
+        "129495": [
+            "Magnanimous"
+        ],
+        "6319": [
+            "Magnanimous"
+        ],
+        "138338": [
+            "Magnanimous"
+        ],
+        "246115": [
+            "Magnanimous"
+        ],
+        "5929": [
+            "Magnanimous"
+        ],
+        "7037": [
+            "Magnanimous"
+        ],
+        "164829": [
+            "Magnanimous"
+        ],
+        "30174": [
+            "Magnanimous"
+        ],
+        "158049": [
+            "Magnanimous"
+        ],
+        "8625": [
+            "Magnanimous"
+        ],
+        "236741": [
+            "Magnanimous"
+        ],
+        "6554": [
+            "Magnanimous"
+        ],
+        "238882": [
+            "Magnanimous"
+        ],
+        "4386": [
+            "Magnanimous"
+        ],
+        "33185": [
+            "Magnanimous"
+        ],
+        "33191": [
+            "Magnanimous"
+        ],
+        "6650": [
+            "Magnanimous"
+        ],
+        "5743": [
+            "Magnanimous",
+            "Steadfast"
+        ],
+        "164845": [
+            "Magnanimous"
+        ],
+        "239734": [
+            "Magnanimous"
+        ],
+        "6639": [
+            "Magnanimous"
+        ],
+        "6493": [
+            "Magnanimous"
+        ],
+        "10288": [
+            "Magnanimous",
+            "Melancholy"
+        ],
+        "160670": [
+            "Magnanimous"
+        ],
+        "128498": [
+            "Magnanimous"
+        ],
+        "239737": [
+            "Magnanimous"
+        ],
+        "5066": [
+            "Magnanimous"
+        ],
+        "164461": [
+            "Magnanimous",
+            "Ruthless"
+        ],
+        "5243": [
+            "Magnanimous"
+        ],
+        "5610": [
+            "Magnanimous"
+        ],
+        "171542": [
+            "Magnanimous"
+        ],
+        "4851": [
+            "Magnanimous"
+        ],
+        "8133": [
+            "Magnanimous"
+        ],
+        "7308": [
+            "Magnanimous"
+        ],
+        "246841": [
+            "Magnanimous"
+        ],
+        "7130": [
+            "Magnanimous"
+        ],
+        "6202": [
+            "Magnanimous"
+        ],
+        "6201": [
+            "Magnanimous"
+        ],
+        "8144": [
+            "Magnanimous"
+        ],
+        "5608": [
+            "Magnanimous",
+            "Subtle"
+        ],
+        "120916": [
+            "Magnanimous"
+        ],
+        "8399": [
+            "Magnanimous",
+            "Steadfast"
+        ],
+        "126700": [
+            "Magnanimous"
+        ],
+        "247277": [
+            "Magnanimous",
+            "Subtle"
+        ],
+        "7101": [
+            "Magnanimous",
+            "Steadfast"
+        ],
+        "163634": [
+            "Magnanimous"
+        ],
+        "246327": [
+            "Magnanimous"
+        ],
+        "7951": [
+            "Magnanimous"
+        ],
+        "238228": [
+            "Magnanimous"
+        ],
+        "142626": [
+            "Magnanimous"
+        ],
+        "142625": [
+            "Magnanimous"
+        ],
+        "241307": [
+            "Magnanimous"
+        ],
+        "5697": [
+            "Magnanimous",
+            "Steadfast"
+        ],
+        "6197": [
+            "Magnanimous"
+        ],
+        "6199": [
+            "Magnanimous"
+        ],
+        "238639": [
+            "Magnanimous"
+        ],
+        "7131": [
+            "Magnanimous"
+        ],
+        "6345": [
+            "Magnanimous"
+        ],
+        "204301": [
+            "Magnanimous"
+        ],
+        "6359": [
+            "Magnanimous"
+        ],
+        "33236": [
+            "Magnanimous"
+        ],
+        "162917": [
+            "Magnanimous"
+        ],
+        "6852": [
+            "Magnanimous"
+        ],
+        "226698": [
+            "Magnanimous"
+        ],
+        "6856": [
+            "Magnanimous"
+        ],
+        "6853": [
+            "Magnanimous"
+        ],
+        "226699": [
+            "Magnanimous"
+        ],
+        "6851": [
+            "Magnanimous"
+        ],
+        "6855": [
+            "Magnanimous"
+        ],
+        "4762": [
+            "Magnanimous"
+        ],
+        "6417": [
+            "Magnanimous"
+        ],
+        "5644": [
+            "Magnanimous"
+        ],
+        "5655": [
+            "Magnanimous"
+        ],
+        "5628": [
+            "Magnanimous"
+        ],
+        "5429": [
+            "Magnanimous",
+            "Melancholy"
+        ],
+        "164833": [
+            "Magnanimous"
+        ],
+        "212224": [
+            "Magnanimous"
+        ],
+        "5530": [
+            "Magnanimous",
+            "Melancholy"
+        ],
+        "35576": [
+            "Magnanimous"
+        ],
+        "131960": [
+            "Magnanimous"
+        ],
+        "235650": [
+            "Magnanimous"
+        ],
+        "35575": [
+            "Magnanimous"
+        ],
+        "120377": [
+            "Magnanimous"
+        ],
+        "235652": [
+            "Magnanimous"
+        ],
+        "34423": [
+            "Magnanimous"
+        ],
+        "5531": [
+            "Magnanimous",
+            "Melancholy"
+        ],
+        "235653": [
+            "Magnanimous"
+        ],
+        "37390": [
+            "Magnanimous"
+        ],
+        "5431": [
+            "Melancholy",
+            "Forceful"
+        ],
+        "13416": [
+            "Melancholy"
+        ],
+        "236738": [
+            "Melancholy"
+        ],
+        "255288": [
+            "Melancholy"
+        ],
+        "7841": [
+            "Melancholy",
+            "Steadfast"
+        ],
+        "54405": [
+            "Melancholy"
+        ],
+        "6742": [
+            "Melancholy"
+        ],
+        "9714": [
+            "Melancholy"
+        ],
+        "5736": [
+            "Melancholy"
+        ],
+        "8555": [
+            "Melancholy"
+        ],
+        "8554": [
+            "Melancholy"
+        ],
+        "163629": [
+            "Melancholy"
+        ],
+        "5654": [
+            "Melancholy",
+            "Ruthless"
+        ],
+        "5651": [
+            "Melancholy",
+            "Heartless"
+        ],
+        "237564": [
+            "Melancholy"
+        ],
+        "62874": [
+            "Melancholy"
+        ],
+        "171785": [
+            "Melancholy"
+        ],
+        "5475": [
+            "Melancholy"
+        ],
+        "238301": [
+            "Melancholy"
+        ],
+        "238302": [
+            "Melancholy"
+        ],
+        "7039": [
+            "Melancholy"
+        ],
+        "169400": [
+            "Melancholy"
+        ],
+        "6216": [
+            "Melancholy"
+        ],
+        "5622": [
+            "Melancholy"
+        ],
+        "7667": [
+            "Melancholy"
+        ],
+        "5692": [
+            "Melancholy"
+        ],
+        "169924": [
+            "Melancholy"
+        ],
+        "7074": [
+            "Melancholy"
+        ],
+        "8165": [
+            "Melancholy"
+        ],
+        "204800": [
+            "Melancholy"
+        ],
+        "7846": [
+            "Melancholy"
+        ],
+        "185030": [
+            "Melancholy"
+        ],
+        "5477": [
+            "Melancholy"
+        ],
+        "5104": [
+            "Melancholy"
+        ],
+        "244813": [
+            "Melancholy"
+        ],
+        "6583": [
+            "Melancholy"
+        ],
+        "210555": [
+            "Melancholy"
+        ],
+        "6321": [
+            "Melancholy"
+        ],
+        "10287": [
+            "Melancholy",
+            "Steadfast"
+        ],
+        "247119": [
+            "Melancholy"
+        ],
+        "5436": [
+            "Melancholy"
+        ],
+        "248599": [
+            "Melancholy"
+        ],
+        "8424": [
+            "Melancholy"
+        ],
+        "7368": [
+            "Melancholy"
+        ],
+        "162907": [
+            "Melancholy"
+        ],
+        "6637": [
+            "Melancholy"
+        ],
+        "5505": [
+            "Melancholy",
+            "Steadfast"
+        ],
+        "6183": [
+            "Melancholy"
+        ],
+        "7840": [
+            "Melancholy"
+        ],
+        "6344": [
+            "Melancholy"
+        ],
+        "5625": [
+            "Melancholy"
+        ],
+        "5103": [
+            "Melancholy"
+        ],
+        "177731": [
+            "Melancholy"
+        ],
+        "164847": [
+            "Melancholy"
+        ],
+        "7166": [
+            "Melancholy"
+        ],
+        "164841": [
+            "Melancholy"
+        ],
+        "167967": [
+            "Melancholy"
+        ],
+        "131951": [
+            "Melancholy"
+        ],
+        "120317": [
+            "Melancholy"
+        ],
+        "35570": [
+            "Melancholy"
+        ],
+        "5488": [
+            "Melancholy"
+        ],
+        "144365": [
+            "Melancholy"
+        ],
+        "5541": [
+            "Melancholy"
+        ],
+        "190862": [
+            "Melancholy"
+        ],
+        "5542": [
+            "Melancholy",
+            "Subtle"
+        ],
+        "120553": [
+            "Melancholy"
+        ],
+        "35463": [
+            "Melancholy"
+        ],
+        "169919": [
+            "Ruthless"
+        ],
+        "171752": [
+            "Ruthless"
+        ],
+        "5072": [
+            "Ruthless"
+        ],
+        "6776": [
+            "Ruthless"
+        ],
+        "5081": [
+            "Ruthless"
+        ],
+        "5930": [
+            "Ruthless"
+        ],
+        "204336": [
+            "Ruthless"
+        ],
+        "204395": [
+            "Ruthless"
+        ],
+        "6146": [
+            "Ruthless"
+        ],
+        "7366": [
+            "Ruthless"
+        ],
+        "8644": [
+            "Ruthless"
+        ],
+        "163639": [
+            "Ruthless"
+        ],
+        "5426": [
+            "Ruthless"
+        ],
+        "5751": [
+            "Ruthless"
+        ],
+        "164462": [
+            "Ruthless"
+        ],
+        "4521": [
+            "Ruthless"
+        ],
+        "157620": [
+            "Ruthless"
+        ],
+        "235946": [
+            "Ruthless"
+        ],
+        "4390": [
+            "Ruthless"
+        ],
+        "5639": [
+            "Ruthless"
+        ],
+        "5601": [
+            "Ruthless"
+        ],
+        "206807": [
+            "Ruthless"
+        ],
+        "161308": [
+            "Ruthless"
+        ],
+        "6555": [
+            "Ruthless"
+        ],
+        "8355": [
+            "Ruthless"
+        ],
+        "6485": [
+            "Ruthless"
+        ],
+        "5633": [
+            "Ruthless"
+        ],
+        "6149": [
+            "Ruthless"
+        ],
+        "5246": [
+            "Ruthless"
+        ],
+        "162943": [
+            "Ruthless"
+        ],
+        "7952": [
+            "Ruthless"
+        ],
+        "5476": [
+            "Ruthless"
+        ],
+        "245950": [
+            "Ruthless",
+            "Heartless"
+        ],
+        "204337": [
+            "Ruthless"
+        ],
+        "5605": [
+            "Ruthless"
+        ],
+        "4881": [
+            "Ruthless"
+        ],
+        "119345": [
+            "Ruthless"
+        ],
+        "171783": [
+            "Ruthless"
+        ],
+        "142333": [
+            "Ruthless"
+        ],
+        "9330": [
+            "Ruthless"
+        ],
+        "246828": [
+            "Ruthless"
+        ],
+        "171748": [
+            "Ruthless"
+        ],
+        "142281": [
+            "Ruthless"
+        ],
+        "5796": [
+            "Ruthless"
+        ],
+        "5745": [
+            "Ruthless"
+        ],
+        "238223": [
+            "Ruthless",
+            "Steadfast"
+        ],
+        "123188": [
+            "Ruthless"
+        ],
+        "8400": [
+            "Ruthless",
+            "Heartless"
+        ],
+        "6757": [
+            "Ruthless"
+        ],
+        "7165": [
+            "Ruthless"
+        ],
+        "5791": [
+            "Ruthless"
+        ],
+        "6182": [
+            "Ruthless",
+            "Steadfast"
+        ],
+        "162918": [
+            "Ruthless"
+        ],
+        "7426": [
+            "Ruthless"
+        ],
+        "5699": [
+            "Ruthless"
+        ],
+        "8357": [
+            "Ruthless"
+        ],
+        "7301": [
+            "Ruthless"
+        ],
+        "171540": [
+            "Ruthless"
+        ],
+        "8048": [
+            "Ruthless"
+        ],
+        "8047": [
+            "Ruthless"
+        ],
+        "235947": [
+            "Ruthless"
+        ],
+        "7007": [
+            "Ruthless"
+        ],
+        "252905": [
+            "Ruthless",
+            "Steadfast",
+            "Heartless"
+        ],
+        "5361": [
+            "Ruthless"
+        ],
+        "5076": [
+            "Ruthless"
+        ],
+        "128485": [
+            "Ruthless"
+        ],
+        "169931": [
+            "Ruthless"
+        ],
+        "5749": [
+            "Ruthless"
+        ],
+        "4389": [
+            "Ruthless"
+        ],
+        "158101": [
+            "Ruthless"
+        ],
+        "237561": [
+            "Ruthless"
+        ],
+        "239732": [
+            "Ruthless"
+        ],
+        "6553": [
+            "Ruthless"
+        ],
+        "129496": [
+            "Ruthless"
+        ],
+        "244801": [
+            "Ruthless"
+        ],
+        "10152": [
+            "Ruthless"
+        ],
+        "6492": [
+            "Ruthless"
+        ],
+        "4791": [
+            "Ruthless"
+        ],
+        "5263": [
+            "Ruthless"
+        ],
+        "126703": [
+            "Ruthless"
+        ],
+        "5083": [
+            "Ruthless"
+        ],
+        "162908": [
+            "Ruthless",
+            "Forceful"
+        ],
+        "5070": [
+            "Ruthless"
+        ],
+        "157618": [
+            "Ruthless"
+        ],
+        "9355": [
+            "Ruthless"
+        ],
+        "6189": [
+            "Ruthless"
+        ],
+        "204396": [
+            "Ruthless"
+        ],
+        "5069": [
+            "Ruthless"
+        ],
+        "9323": [
+            "Ruthless"
+        ],
+        "169883": [
+            "Ruthless"
+        ],
+        "164830": [
+            "Ruthless"
+        ],
+        "164837": [
+            "Ruthless"
+        ],
+        "7369": [
+            "Ruthless"
+        ],
+        "5062": [
+            "Ruthless"
+        ],
+        "209922": [
+            "Ruthless",
+            "Heartless"
+        ],
+        "137582": [
+            "Ruthless"
+        ],
+        "5433": [
+            "Ruthless",
+            "Forceful"
+        ],
+        "9341": [
+            "Ruthless"
+        ],
+        "30175": [
+            "Ruthless"
+        ],
+        "162957": [
+            "Ruthless"
+        ],
+        "162948": [
+            "Ruthless"
+        ],
+        "131953": [
+            "Ruthless"
+        ],
+        "120378": [
+            "Ruthless"
+        ],
+        "37387": [
+            "Ruthless"
+        ],
+        "170201": [
+            "Ruthless"
+        ],
+        "258877": [
+            "Steadfast"
+        ],
+        "171494": [
+            "Steadfast"
+        ],
+        "169918": [
+            "Steadfast"
+        ],
+        "164505": [
+            "Steadfast"
+        ],
+        "236742": [
+            "Steadfast"
+        ],
+        "9320": [
+            "Steadfast"
+        ],
+        "250266": [
+            "Steadfast"
+        ],
+        "154847": [
+            "Steadfast"
+        ],
+        "247480": [
+            "Steadfast"
+        ],
+        "167554": [
+            "Steadfast"
+        ],
+        "6360": [
+            "Steadfast"
+        ],
+        "157461": [
+            "Steadfast"
+        ],
+        "5469": [
+            "Steadfast"
+        ],
+        "147660": [
+            "Steadfast"
+        ],
+        "4990": [
+            "Steadfast"
+        ],
+        "7990": [
+            "Steadfast"
+        ],
+        "6327": [
+            "Steadfast"
+        ],
+        "7425": [
+            "Steadfast"
+        ],
+        "169932": [
+            "Steadfast"
+        ],
+        "129494": [
+            "Steadfast"
+        ],
+        "7608": [
+            "Steadfast",
+            "Forceful"
+        ],
+        "8949": [
+            "Steadfast"
+        ],
+        "8948": [
+            "Steadfast"
+        ],
+        "8947": [
+            "Steadfast"
+        ],
+        "9329": [
+            "Steadfast"
+        ],
+        "142554": [
+            "Steadfast"
+        ],
+        "6008": [
+            "Steadfast"
+        ],
+        "245753": [
+            "Steadfast"
+        ],
+        "10092": [
+            "Steadfast"
+        ],
+        "5852": [
+            "Steadfast"
+        ],
+        "211464": [
+            "Steadfast"
+        ],
+        "167946": [
+            "Steadfast"
+        ],
+        "123189": [
+            "Steadfast"
+        ],
+        "9079": [
+            "Steadfast"
+        ],
+        "6756": [
+            "Steadfast"
+        ],
+        "254842": [
+            "Steadfast"
+        ],
+        "5482": [
+            "Steadfast"
+        ],
+        "162959": [
+            "Steadfast"
+        ],
+        "5833": [
+            "Steadfast"
+        ],
+        "169923": [
+            "Steadfast"
+        ],
+        "162909": [
+            "Steadfast"
+        ],
+        "5750": [
+            "Steadfast"
+        ],
+        "121179": [
+            "Steadfast"
+        ],
+        "180668": [
+            "Steadfast"
+        ],
+        "181757": [
+            "Steadfast"
+        ],
+        "162952": [
+            "Steadfast"
+        ],
+        "171747": [
+            "Steadfast"
+        ],
+        "241314": [
+            "Steadfast"
+        ],
+        "7269": [
+            "Steadfast"
+        ],
+        "7271": [
+            "Steadfast"
+        ],
+        "9317": [
+            "Steadfast"
+        ],
+        "247850": [
+            "Steadfast"
+        ],
+        "9356": [
+            "Steadfast"
+        ],
+        "5748": [
+            "Steadfast"
+        ],
+        "9572": [
+            "Steadfast"
+        ],
+        "238066": [
+            "Steadfast"
+        ],
+        "247118": [
+            "Steadfast"
+        ],
+        "9338": [
+            "Steadfast"
+        ],
+        "9339": [
+            "Steadfast"
+        ],
+        "248600": [
+            "Steadfast"
+        ],
+        "163345": [
+            "Steadfast"
+        ],
+        "5468": [
+            "Steadfast"
+        ],
+        "9043": [
+            "Steadfast"
+        ],
+        "259069": [
+            "Steadfast"
+        ],
+        "8134": [
+            "Steadfast"
+        ],
+        "8146": [
+            "Steadfast"
+        ],
+        "30173": [
+            "Steadfast"
+        ],
+        "163626": [
+            "Steadfast"
+        ],
+        "6415": [
+            "Steadfast"
+        ],
+        "7850": [
+            "Steadfast"
+        ],
+        "169928": [
+            "Steadfast"
+        ],
+        "7167": [
+            "Steadfast"
+        ],
+        "131952": [
+            "Steadfast"
+        ],
+        "123367": [
+            "Steadfast"
+        ],
+        "190858": [
+            "Steadfast"
+        ],
+        "173443": [
+            "Steadfast"
+        ],
+        "8690": [
+            "Subtle"
+        ],
+        "258878": [
+            "Subtle"
+        ],
+        "123197": [
+            "Subtle"
+        ],
+        "123173": [
+            "Subtle"
+        ],
+        "6878": [
+            "Subtle"
+        ],
+        "171755": [
+            "Subtle"
+        ],
+        "5465": [
+            "Subtle"
+        ],
+        "169946": [
+            "Subtle"
+        ],
+        "5467": [
+            "Subtle"
+        ],
+        "5546": [
+            "Subtle"
+        ],
+        "162960": [
+            "Subtle"
+        ],
+        "244802": [
+            "Subtle"
+        ],
+        "151411": [
+            "Subtle"
+        ],
+        "6995": [
+            "Subtle"
+        ],
+        "5479": [
+            "Subtle"
+        ],
+        "30350": [
+            "Subtle"
+        ],
+        "8634": [
+            "Subtle"
+        ],
+        "203973": [
+            "Subtle"
+        ],
+        "6934": [
+            "Subtle"
+        ],
+        "246829": [
+            "Subtle"
+        ],
+        "5887": [
+            "Subtle"
+        ],
+        "7285": [
+            "Subtle"
+        ],
+        "6414": [
+            "Subtle"
+        ],
+        "7586": [
+            "Subtle"
+        ],
+        "206813": [
+            "Subtle"
+        ],
+        "169880": [
+            "Subtle"
+        ],
+        "164844": [
+            "Subtle"
+        ],
+        "38327": [
+            "Subtle"
+        ],
+        "5634": [
+            "Subtle"
+        ],
+        "171548": [
+            "Subtle"
+        ],
+        "138788": [
+            "Subtle"
+        ],
+        "7347": [
+            "Subtle"
+        ],
+        "237247": [
+            "Subtle"
+        ],
+        "236254": [
+            "Subtle"
+        ],
+        "5461": [
+            "Subtle"
+        ],
+        "171784": [
+            "Subtle"
+        ],
+        "8958": [
+            "Subtle"
+        ],
+        "8956": [
+            "Subtle"
+        ],
+        "8957": [
+            "Subtle"
+        ],
+        "5107": [
+            "Subtle"
+        ],
+        "239733": [
+            "Subtle"
+        ],
+        "6803": [
+            "Subtle"
+        ],
+        "10133": [
+            "Subtle"
+        ],
+        "120925": [
+            "Subtle"
+        ],
+        "126622": [
+            "Subtle"
+        ],
+        "158106": [
+            "Subtle"
+        ],
+        "169934": [
+            "Subtle"
+        ],
+        "10171": [
+            "Subtle"
+        ],
+        "254844": [
+            "Subtle"
+        ],
+        "238069": [
+            "Subtle"
+        ],
+        "171491": [
+            "Subtle"
+        ],
+        "6804": [
+            "Subtle"
+        ],
+        "171750": [
+            "Subtle"
+        ],
+        "4520": [
+            "Subtle"
+        ],
+        "137573": [
+            "Subtle"
+        ],
+        "164828": [
+            "Subtle"
+        ],
+        "4772": [
+            "Subtle"
+        ],
+        "171543": [
+            "Subtle"
+        ],
+        "158105": [
+            "Subtle"
+        ],
+        "6416": [
+            "Subtle"
+        ],
+        "5434": [
+            "Subtle"
+        ],
+        "7268": [
+            "Subtle"
+        ],
+        "7270": [
+            "Subtle"
+        ],
+        "163628": [
+            "Subtle"
+        ],
+        "162956": [
+            "Subtle"
+        ],
+        "48456": [
+            "Subtle"
+        ],
+        "238188": [
+            "Subtle"
+        ],
+        "180211": [
+            "Subtle"
+        ],
+        "126702": [
+            "Subtle"
+        ],
+        "147631": [
+            "Subtle"
+        ],
+        "63709": [
+            "Subtle"
+        ],
+        "169929": [
+            "Subtle"
+        ],
+        "204322": [
+            "Subtle"
+        ],
+        "6781": [
+            "Subtle"
+        ],
+        "162805": [
+            "Subtle"
+        ],
+        "29958": [
+            "Subtle"
+        ],
+        "241315": [
+            "Subtle"
+        ],
+        "5925": [
+            "Subtle"
+        ],
+        "5662": [
+            "Subtle"
+        ],
+        "5474": [
+            "Subtle"
+        ],
+        "246838": [
+            "Subtle"
+        ],
+        "4265": [
+            "Subtle"
+        ],
+        "9340": [
+            "Subtle"
+        ],
+        "258610": [
+            "Subtle"
+        ],
+        "158236": [
+            "Subtle"
+        ],
+        "169884": [
+            "Subtle"
+        ],
+        "164831": [
+            "Subtle"
+        ],
+        "248601": [
+            "Subtle"
+        ],
+        "5653": [
+            "Subtle"
+        ],
+        "237563": [
+            "Subtle"
+        ],
+        "259070": [
+            "Subtle"
+        ],
+        "9354": [
+            "Subtle"
+        ],
+        "5741": [
+            "Subtle"
+        ],
+        "162954": [
+            "Subtle"
+        ],
+        "162945": [
+            "Subtle"
+        ],
+        "6304": [
+            "Subtle"
+        ],
+        "164834": [
+            "Subtle"
+        ],
+        "5428": [
+            "Subtle"
+        ],
+        "34868": [
+            "Subtle"
+        ],
+        "34794": [
+            "Subtle"
+        ],
+        "120501": [
+            "Subtle"
+        ],
+        "116059": [
+            "Subtle"
+        ],
+        "131950": [
+            "Subtle"
+        ],
+        "120344": [
+            "Subtle"
+        ],
+        "34693": [
+            "Subtle"
+        ],
+        "170202": [
+            "Subtle"
+        ],
+        "171495": [
+            "Heartless"
+        ],
+        "4858": [
+            "Heartless"
+        ],
+        "5080": [
+            "Heartless"
+        ],
+        "159574": [
+            "Heartless"
+        ],
+        "121205": [
+            "Heartless"
+        ],
+        "120832": [
+            "Heartless"
+        ],
+        "164506": [
+            "Heartless"
+        ],
+        "244819": [
+            "Heartless"
+        ],
+        "163627": [
+            "Heartless"
+        ],
+        "5463": [
+            "Heartless"
+        ],
+        "6649": [
+            "Heartless"
+        ],
+        "5636": [
+            "Heartless"
+        ],
+        "5635": [
+            "Heartless"
+        ],
+        "124766": [
+            "Heartless"
+        ],
+        "137583": [
+            "Heartless"
+        ],
+        "171547": [
+            "Heartless"
+        ],
+        "169879": [
+            "Heartless"
+        ],
+        "238065": [
+            "Heartless"
+        ],
+        "5372": [
+            "Heartless"
+        ],
+        "5065": [
+            "Heartless"
+        ],
+        "5470": [
+            "Heartless"
+        ],
+        "5481": [
+            "Heartless"
+        ],
+        "5962": [
+            "Heartless"
+        ],
+        "7962": [
+            "Heartless"
+        ],
+        "8683": [
+            "Heartless"
+        ],
+        "4464": [
+            "Heartless"
+        ],
+        "238638": [
+            "Heartless"
+        ],
+        "250267": [
+            "Heartless"
+        ],
+        "250268": [
+            "Heartless"
+        ],
+        "7954": [
+            "Heartless"
+        ],
+        "5645": [
+            "Heartless"
+        ],
+        "5471": [
+            "Heartless"
+        ],
+        "247851": [
+            "Heartless"
+        ],
+        "6361": [
+            "Heartless"
+        ],
+        "246840": [
+            "Heartless"
+        ],
+        "185031": [
+            "Heartless"
+        ],
+        "6498": [
+            "Heartless"
+        ],
+        "7843": [
+            "Heartless"
+        ],
+        "121261": [
+            "Heartless"
+        ],
+        "206804": [
+            "Heartless"
+        ],
+        "5656": [
+            "Heartless"
+        ],
+        "7102": [
+            "Heartless"
+        ],
+        "6933": [
+            "Heartless"
+        ],
+        "5060": [
+            "Heartless"
+        ],
+        "5698": [
+            "Heartless"
+        ],
+        "6545": [
+            "Heartless"
+        ],
+        "5744": [
+            "Heartless"
+        ],
+        "6418": [
+            "Heartless"
+        ],
+        "160668": [
+            "Heartless"
+        ],
+        "5437": [
+            "Heartless"
+        ],
+        "247481": [
+            "Heartless"
+        ],
+        "171492": [
+            "Heartless"
+        ],
+        "240598": [
+            "Heartless"
+        ],
+        "5918": [
+            "Heartless"
+        ],
+        "5626": [
+            "Heartless"
+        ],
+        "177663": [
+            "Heartless"
+        ],
+        "120376": [
+            "Heartless"
+        ],
+        "131958": [
+            "Heartless"
+        ],
+        "190859": [
+            "Heartless"
+        ],
+        "257964": [
+            "Heartless"
+        ],
+        "173444": [
+            "Heartless"
+        ],
+        "8692": [
+            "Forceful"
+        ],
+        "123198": [
+            "Forceful"
+        ],
+        "123196": [
+            "Forceful"
+        ],
+        "5466": [
+            "Forceful"
+        ],
+        "163636": [
+            "Forceful"
+        ],
+        "169886": [
+            "Forceful"
+        ],
+        "30349": [
+            "Forceful"
+        ],
+        "5108": [
+            "Forceful"
+        ],
+        "160675": [
+            "Forceful"
+        ],
+        "237550": [
+            "Forceful"
+        ],
+        "164843": [
+            "Forceful"
+        ],
+        "120915": [
+            "Forceful"
+        ],
+        "6470": [
+            "Forceful"
+        ],
+        "121250": [
+            "Forceful"
+        ],
+        "5473": [
+            "Forceful"
+        ],
+        "9319": [
+            "Forceful"
+        ],
+        "7587": [
+            "Forceful"
+        ],
+        "6007": [
+            "Forceful"
+        ],
+        "162950": [
+            "Forceful"
+        ],
+        "236740": [
+            "Forceful"
+        ],
+        "5663": [
+            "Forceful"
+        ],
+        "5735": [
+            "Forceful"
+        ],
+        "5666": [
+            "Forceful"
+        ],
+        "4524": [
+            "Forceful"
+        ],
+        "234326": [
+            "Forceful"
+        ],
+        "123172": [
+            "Forceful"
+        ],
+        "55723": [
+            "Forceful"
+        ],
+        "163637": [
+            "Forceful"
+        ],
+        "238186": [
+            "Forceful"
+        ],
+        "236900": [
+            "Forceful"
+        ],
+        "244814": [
+            "Forceful"
+        ],
+        "5926": [
+            "Forceful"
+        ],
+        "120493": [
+            "Forceful"
+        ],
+        "254843": [
+            "Forceful"
+        ],
+        "9322": [
+            "Forceful"
+        ],
+        "6254": [
+            "Forceful"
+        ],
+        "250366": [
+            "Forceful"
+        ],
+        "169921": [
+            "Forceful"
+        ],
+        "5742": [
+            "Forceful"
+        ],
+        "9353": [
+            "Forceful"
+        ],
+        "164835": [
+            "Forceful"
+        ],
+        "123645": [
+            "Forceful"
+        ],
+        "131959": [
+            "Forceful"
+        ],
+        "35572": [
+            "Forceful"
+        ],
+        "190856": [
+            "Forceful"
+        ],
+        "170204": [
+            "Forceful"
+        ]
+    },
+    "Loses": {
+        "123198": [
+            "Austere"
+        ],
+        "123200": [
+            "Austere"
+        ],
+        "123169": [
+            "Austere"
+        ],
+        "123180": [
+            "Austere"
+        ],
+        "123190": [
+            "Austere",
+            "Melancholy"
+        ],
+        "123182": [
+            "Austere"
+        ],
+        "123208": [
+            "Austere"
+        ],
+        "123206": [
+            "Austere"
+        ],
+        "121323": [
+            "Austere"
+        ],
+        "121326": [
+            "Austere"
+        ],
+        "121324": [
+            "Austere"
+        ],
+        "8179": [
+            "Austere"
+        ],
+        "169947": [
+            "Austere"
+        ],
+        "4857": [
+            "Austere"
+        ],
+        "169886": [
+            "Austere"
+        ],
+        "6790": [
+            "Austere"
+        ],
+        "123194": [
+            "Austere"
+        ],
+        "7186": [
+            "Austere"
+        ],
+        "210561": [
+            "Austere"
+        ],
+        "123186": [
+            "Austere"
+        ],
+        "9327": [
+            "Austere"
+        ],
+        "6375": [
+            "Austere"
+        ],
+        "162939": [
+            "Austere"
+        ],
+        "6357": [
+            "Austere"
+        ],
+        "211607": [
+            "Austere"
+        ],
+        "211606": [
+            "Austere"
+        ],
+        "162914": [
+            "Austere"
+        ],
+        "5106": [
+            "Austere"
+        ],
+        "6274": [
+            "Austere"
+        ],
+        "162910": [
+            "Austere"
+        ],
+        "204324": [
+            "Austere"
+        ],
+        "171549": [
+            "Austere"
+        ],
+        "5962": [
+            "Austere"
+        ],
+        "163632": [
+            "Austere"
+        ],
+        "245753": [
+            "Austere"
+        ],
+        "8787": [
+            "Austere"
+        ],
+        "123202": [
+            "Austere"
+        ],
+        "10165": [
+            "Austere"
+        ],
+        "247839": [
+            "Austere"
+        ],
+        "6443": [
+            "Austere"
+        ],
+        "171775": [
+            "Austere"
+        ],
+        "5674": [
+            "Austere"
+        ],
+        "4719": [
+            "Austere"
+        ],
+        "4718": [
+            "Austere"
+        ],
+        "8182": [
+            "Austere"
+        ],
+        "4259": [
+            "Austere"
+        ],
+        "8786": [
+            "Austere",
+            "Hedonist"
+        ],
+        "211469": [
+            "Austere"
+        ],
+        "7355": [
+            "Austere"
+        ],
+        "169881": [
+            "Austere"
+        ],
+        "162949": [
+            "Austere"
+        ],
+        "8181": [
+            "Austere"
+        ],
+        "120914": [
+            "Austere"
+        ],
+        "236739": [
+            "Austere"
+        ],
+        "169925": [
+            "Austere"
+        ],
+        "6577": [
+            "Austere"
+        ],
+        "210553": [
+            "Austere"
+        ],
+        "171488": [
+            "Austere"
+        ],
+        "247306": [
+            "Austere"
+        ],
+        "5430": [
+            "Austere"
+        ],
+        "8740": [
+            "Austere"
+        ],
+        "162947": [
+            "Austere"
+        ],
+        "8180": [
+            "Austere"
+        ],
+        "247481": [
+            "Austere"
+        ],
+        "237563": [
+            "Austere"
+        ],
+        "163635": [
+            "Austere"
+        ],
+        "203970": [
+            "Austere"
+        ],
+        "123212": [
+            "Austere"
+        ],
+        "211750": [
+            "Austere"
+        ],
+        "6040": [
+            "Austere"
+        ],
+        "7971": [
+            "Austere",
+            "Magnanimous"
+        ],
+        "162911": [
+            "Austere"
+        ],
+        "167964": [
+            "Austere"
+        ],
+        "120731": [
+            "Austere"
+        ],
+        "7626": [
+            "Austere"
+        ],
+        "120730": [
+            "Austere"
+        ],
+        "119860": [
+            "Austere",
+            "Daring",
+            "Hedonist",
+            "Magnanimous",
+            "Melancholy",
+            "Ruthless",
+            "Steadfast",
+            "Subtle",
+            "Heartless",
+            "Forceful"
+        ],
+        "190856": [
+            "Austere"
+        ],
+        "134620": [
+            "Austere"
+        ],
+        "170204": [
+            "Austere"
+        ],
+        "254801": [
+            "Austere"
+        ],
+        "171755": [
+            "Daring"
+        ],
+        "162960": [
+            "Daring"
+        ],
+        "163629": [
+            "Daring"
+        ],
+        "237247": [
+            "Daring"
+        ],
+        "237564": [
+            "Daring"
+        ],
+        "142554": [
+            "Daring"
+        ],
+        "211018": [
+            "Daring"
+        ],
+        "169924": [
+            "Daring"
+        ],
+        "121261": [
+            "Daring"
+        ],
+        "169929": [
+            "Daring"
+        ],
+        "204322": [
+            "Daring"
+        ],
+        "246838": [
+            "Daring"
+        ],
+        "138750": [
+            "Daring"
+        ],
+        "120727": [
+            "Daring"
+        ],
+        "190862": [
+            "Daring"
+        ],
+        "171496": [
+            "Hedonist"
+        ],
+        "123201": [
+            "Hedonist"
+        ],
+        "123207": [
+            "Hedonist"
+        ],
+        "123181": [
+            "Hedonist"
+        ],
+        "123191": [
+            "Hedonist"
+        ],
+        "123170": [
+            "Hedonist"
+        ],
+        "123183": [
+            "Hedonist"
+        ],
+        "121248": [
+            "Hedonist"
+        ],
+        "5272": [
+            "Hedonist"
+        ],
+        "123195": [
+            "Hedonist"
+        ],
+        "10169": [
+            "Hedonist"
+        ],
+        "6360": [
+            "Hedonist"
+        ],
+        "206807": [
+            "Hedonist"
+        ],
+        "6276": [
+            "Hedonist"
+        ],
+        "38325": [
+            "Hedonist"
+        ],
+        "6372": [
+            "Hedonist"
+        ],
+        "169879": [
+            "Hedonist"
+        ],
+        "163638": [
+            "Hedonist"
+        ],
+        "243138": [
+            "Hedonist"
+        ],
+        "6275": [
+            "Hedonist"
+        ],
+        "8184": [
+            "Hedonist"
+        ],
+        "6444": [
+            "Hedonist"
+        ],
+        "171776": [
+            "Hedonist"
+        ],
+        "10133": [
+            "Hedonist"
+        ],
+        "6446": [
+            "Hedonist"
+        ],
+        "171778": [
+            "Hedonist"
+        ],
+        "6278": [
+            "Hedonist"
+        ],
+        "204321": [
+            "Hedonist"
+        ],
+        "169882": [
+            "Hedonist"
+        ],
+        "6277": [
+            "Hedonist"
+        ],
+        "7187": [
+            "Hedonist"
+        ],
+        "210562": [
+            "Hedonist"
+        ],
+        "169948": [
+            "Hedonist"
+        ],
+        "9328": [
+            "Hedonist"
+        ],
+        "6045": [
+            "Hedonist"
+        ],
+        "123211": [
+            "Hedonist"
+        ],
+        "163634": [
+            "Hedonist"
+        ],
+        "120911": [
+            "Hedonist"
+        ],
+        "5477": [
+            "Hedonist"
+        ],
+        "29957": [
+            "Hedonist"
+        ],
+        "6373": [
+            "Hedonist"
+        ],
+        "169885": [
+            "Hedonist"
+        ],
+        "8741": [
+            "Hedonist"
+        ],
+        "8183": [
+            "Hedonist"
+        ],
+        "6279": [
+            "Hedonist"
+        ],
+        "7963": [
+            "Hedonist",
+            "Heartless"
+        ],
+        "163630": [
+            "Hedonist"
+        ],
+        "163626": [
+            "Hedonist"
+        ],
+        "5625": [
+            "Hedonist"
+        ],
+        "169928": [
+            "Hedonist"
+        ],
+        "169926": [
+            "Hedonist"
+        ],
+        "177730": [
+            "Hedonist"
+        ],
+        "116062": [
+            "Hedonist"
+        ],
+        "134619": [
+            "Hedonist"
+        ],
+        "173445": [
+            "Hedonist"
+        ],
+        "170203": [
+            "Hedonist"
+        ],
+        "262064": [
+            "Hedonist"
+        ],
+        "5431": [
+            "Magnanimous"
+        ],
+        "171494": [
+            "Magnanimous"
+        ],
+        "171495": [
+            "Magnanimous"
+        ],
+        "169919": [
+            "Magnanimous"
+        ],
+        "171752": [
+            "Magnanimous"
+        ],
+        "6776": [
+            "Magnanimous"
+        ],
+        "5930": [
+            "Magnanimous"
+        ],
+        "163639": [
+            "Magnanimous"
+        ],
+        "163627": [
+            "Magnanimous"
+        ],
+        "5463": [
+            "Magnanimous"
+        ],
+        "5426": [
+            "Magnanimous"
+        ],
+        "235946": [
+            "Magnanimous"
+        ],
+        "238308": [
+            "Magnanimous"
+        ],
+        "5601": [
+            "Magnanimous"
+        ],
+        "164844": [
+            "Magnanimous"
+        ],
+        "124766": [
+            "Magnanimous"
+        ],
+        "171547": [
+            "Magnanimous"
+        ],
+        "126682": [
+            "Magnanimous"
+        ],
+        "5246": [
+            "Magnanimous"
+        ],
+        "238065": [
+            "Magnanimous"
+        ],
+        "245950": [
+            "Magnanimous"
+        ],
+        "5605": [
+            "Magnanimous"
+        ],
+        "4881": [
+            "Magnanimous"
+        ],
+        "171783": [
+            "Magnanimous"
+        ],
+        "142333": [
+            "Magnanimous"
+        ],
+        "7962": [
+            "Magnanimous"
+        ],
+        "246828": [
+            "Magnanimous"
+        ],
+        "171748": [
+            "Magnanimous"
+        ],
+        "238223": [
+            "Magnanimous"
+        ],
+        "8400": [
+            "Magnanimous"
+        ],
+        "238638": [
+            "Magnanimous"
+        ],
+        "5791": [
+            "Magnanimous"
+        ],
+        "7426": [
+            "Magnanimous"
+        ],
+        "247851": [
+            "Magnanimous"
+        ],
+        "10093": [
+            "Magnanimous"
+        ],
+        "171540": [
+            "Magnanimous"
+        ],
+        "234326": [
+            "Magnanimous"
+        ],
+        "8047": [
+            "Magnanimous"
+        ],
+        "235947": [
+            "Magnanimous"
+        ],
+        "6361": [
+            "Magnanimous"
+        ],
+        "246840": [
+            "Magnanimous"
+        ],
+        "5076": [
+            "Magnanimous"
+        ],
+        "171543": [
+            "Magnanimous"
+        ],
+        "128485": [
+            "Magnanimous"
+        ],
+        "169931": [
+            "Magnanimous"
+        ],
+        "4389": [
+            "Magnanimous"
+        ],
+        "237561": [
+            "Magnanimous"
+        ],
+        "129496": [
+            "Magnanimous"
+        ],
+        "6374": [
+            "Magnanimous"
+        ],
+        "206804": [
+            "Magnanimous"
+        ],
+        "6492": [
+            "Magnanimous"
+        ],
+        "236900": [
+            "Magnanimous"
+        ],
+        "162908": [
+            "Magnanimous",
+            "Heartless"
+        ],
+        "157618": [
+            "Magnanimous"
+        ],
+        "160668": [
+            "Magnanimous"
+        ],
+        "10287": [
+            "Magnanimous"
+        ],
+        "254843": [
+            "Magnanimous"
+        ],
+        "164837": [
+            "Magnanimous"
+        ],
+        "209922": [
+            "Magnanimous"
+        ],
+        "171492": [
+            "Magnanimous"
+        ],
+        "5918": [
+            "Magnanimous"
+        ],
+        "5626": [
+            "Magnanimous"
+        ],
+        "5428": [
+            "Magnanimous"
+        ],
+        "120728": [
+            "Magnanimous"
+        ],
+        "37387": [
+            "Magnanimous"
+        ],
+        "120376": [
+            "Magnanimous"
+        ],
+        "257964": [
+            "Magnanimous"
+        ],
+        "173443": [
+            "Magnanimous"
+        ],
+        "173444": [
+            "Magnanimous"
+        ],
+        "5274": [
+            "Melancholy"
+        ],
+        "236742": [
+            "Melancholy"
+        ],
+        "6044": [
+            "Melancholy"
+        ],
+        "5479": [
+            "Melancholy"
+        ],
+        "196600": [
+            "Melancholy"
+        ],
+        "237550": [
+            "Melancholy"
+        ],
+        "38324": [
+            "Melancholy"
+        ],
+        "6356": [
+            "Melancholy"
+        ],
+        "48068": [
+            "Melancholy"
+        ],
+        "236740": [
+            "Melancholy"
+        ],
+        "169933": [
+            "Melancholy"
+        ],
+        "158049": [
+            "Melancholy"
+        ],
+        "162959": [
+            "Melancholy"
+        ],
+        "10168": [
+            "Melancholy"
+        ],
+        "185031": [
+            "Melancholy"
+        ],
+        "7843": [
+            "Melancholy"
+        ],
+        "169922": [
+            "Melancholy"
+        ],
+        "6798": [
+            "Melancholy"
+        ],
+        "4262": [
+            "Melancholy"
+        ],
+        "163640": [
+            "Melancholy"
+        ],
+        "162956": [
+            "Melancholy"
+        ],
+        "120924": [
+            "Melancholy"
+        ],
+        "8020": [
+            "Melancholy"
+        ],
+        "163633": [
+            "Melancholy"
+        ],
+        "6797": [
+            "Melancholy"
+        ],
+        "63710": [
+            "Melancholy"
+        ],
+        "162952": [
+            "Melancholy"
+        ],
+        "29953": [
+            "Melancholy"
+        ],
+        "163345": [
+            "Melancholy"
+        ],
+        "162958": [
+            "Melancholy"
+        ],
+        "7369": [
+            "Melancholy"
+        ],
+        "5478": [
+            "Melancholy"
+        ],
+        "169927": [
+            "Melancholy"
+        ],
+        "177729": [
+            "Melancholy"
+        ],
+        "177663": [
+            "Melancholy"
+        ],
+        "120621": [
+            "Melancholy"
+        ],
+        "190860": [
+            "Melancholy"
+        ],
+        "169920": [
+            "Ruthless"
+        ],
+        "5271": [
+            "Ruthless"
+        ],
+        "5427": [
+            "Ruthless"
+        ],
+        "157461": [
+            "Ruthless"
+        ],
+        "128484": [
+            "Ruthless"
+        ],
+        "171749": [
+            "Ruthless"
+        ],
+        "171493": [
+            "Ruthless"
+        ],
+        "7425": [
+            "Ruthless"
+        ],
+        "169932": [
+            "Ruthless"
+        ],
+        "129495": [
+            "Ruthless"
+        ],
+        "171785": [
+            "Ruthless"
+        ],
+        "5475": [
+            "Ruthless"
+        ],
+        "239733": [
+            "Ruthless"
+        ],
+        "246115": [
+            "Ruthless"
+        ],
+        "6493": [
+            "Ruthless"
+        ],
+        "5077": [
+            "Ruthless"
+        ],
+        "5610": [
+            "Ruthless"
+        ],
+        "4772": [
+            "Ruthless"
+        ],
+        "171542": [
+            "Ruthless"
+        ],
+        "204800": [
+            "Ruthless"
+        ],
+        "126681": [
+            "Ruthless"
+        ],
+        "8399": [
+            "Ruthless",
+            "Heartless"
+        ],
+        "142626": [
+            "Ruthless"
+        ],
+        "7368": [
+            "Ruthless"
+        ],
+        "5468": [
+            "Ruthless"
+        ],
+        "212224": [
+            "Ruthless"
+        ],
+        "120723": [
+            "Ruthless"
+        ],
+        "258878": [
+            "Steadfast"
+        ],
+        "4858": [
+            "Steadfast"
+        ],
+        "169946": [
+            "Steadfast"
+        ],
+        "4991": [
+            "Steadfast"
+        ],
+        "138749": [
+            "Steadfast"
+        ],
+        "164506": [
+            "Steadfast"
+        ],
+        "157620": [
+            "Steadfast"
+        ],
+        "249640": [
+            "Steadfast"
+        ],
+        "238109": [
+            "Steadfast"
+        ],
+        "161308": [
+            "Steadfast"
+        ],
+        "38327": [
+            "Steadfast"
+        ],
+        "171548": [
+            "Steadfast"
+        ],
+        "162943": [
+            "Steadfast"
+        ],
+        "5476": [
+            "Steadfast"
+        ],
+        "5470": [
+            "Steadfast"
+        ],
+        "5481": [
+            "Steadfast"
+        ],
+        "6803": [
+            "Steadfast"
+        ],
+        "245752": [
+            "Steadfast"
+        ],
+        "123188": [
+            "Steadfast"
+        ],
+        "120925": [
+            "Steadfast"
+        ],
+        "158106": [
+            "Steadfast"
+        ],
+        "250267": [
+            "Steadfast"
+        ],
+        "250268": [
+            "Steadfast"
+        ],
+        "169934": [
+            "Steadfast"
+        ],
+        "10171": [
+            "Steadfast"
+        ],
+        "254844": [
+            "Steadfast"
+        ],
+        "238069": [
+            "Steadfast"
+        ],
+        "6804": [
+            "Steadfast"
+        ],
+        "5471": [
+            "Steadfast"
+        ],
+        "9315": [
+            "Steadfast"
+        ],
+        "158105": [
+            "Steadfast"
+        ],
+        "158101": [
+            "Steadfast"
+        ],
+        "138759": [
+            "Steadfast"
+        ],
+        "63709": [
+            "Steadfast"
+        ],
+        "29958": [
+            "Steadfast"
+        ],
+        "4265": [
+            "Steadfast"
+        ],
+        "6359": [
+            "Steadfast"
+        ],
+        "123366": [
+            "Steadfast"
+        ],
+        "169883": [
+            "Steadfast"
+        ],
+        "120919": [
+            "Steadfast"
+        ],
+        "6183": [
+            "Steadfast"
+        ],
+        "190859": [
+            "Steadfast"
+        ],
+        "116059": [
+            "Steadfast"
+        ],
+        "120729": [
+            "Steadfast"
+        ],
+        "170201": [
+            "Steadfast"
+        ],
+        "8692": [
+            "Subtle"
+        ],
+        "258877": [
+            "Subtle"
+        ],
+        "123196": [
+            "Subtle"
+        ],
+        "171754": [
+            "Subtle"
+        ],
+        "5273": [
+            "Subtle"
+        ],
+        "5466": [
+            "Subtle"
+        ],
+        "163636": [
+            "Subtle"
+        ],
+        "169945": [
+            "Subtle"
+        ],
+        "162912": [
+            "Subtle"
+        ],
+        "238408": [
+            "Subtle"
+        ],
+        "171546": [
+            "Subtle"
+        ],
+        "4258": [
+            "Subtle"
+        ],
+        "160675": [
+            "Subtle"
+        ],
+        "164842": [
+            "Subtle"
+        ],
+        "164843": [
+            "Subtle"
+        ],
+        "238307": [
+            "Subtle"
+        ],
+        "204325": [
+            "Subtle"
+        ],
+        "121250": [
+            "Subtle"
+        ],
+        "5473": [
+            "Subtle"
+        ],
+        "162950": [
+            "Subtle"
+        ],
+        "162944": [
+            "Subtle"
+        ],
+        "5663": [
+            "Subtle"
+        ],
+        "246839": [
+            "Subtle"
+        ],
+        "162918": [
+            "Subtle"
+        ],
+        "162953": [
+            "Subtle"
+        ],
+        "5482": [
+            "Subtle"
+        ],
+        "169923": [
+            "Subtle"
+        ],
+        "162940": [
+            "Subtle"
+        ],
+        "123172": [
+            "Subtle"
+        ],
+        "48069": [
+            "Subtle"
+        ],
+        "171786": [
+            "Subtle"
+        ],
+        "239732": [
+            "Subtle"
+        ],
+        "164827": [
+            "Subtle"
+        ],
+        "238187": [
+            "Subtle"
+        ],
+        "163637": [
+            "Subtle"
+        ],
+        "238186": [
+            "Subtle"
+        ],
+        "5925": [
+            "Subtle",
+            "Forceful"
+        ],
+        "5926": [
+            "Subtle",
+            "Forceful"
+        ],
+        "120493": [
+            "Subtle"
+        ],
+        "5480": [
+            "Subtle"
+        ],
+        "238066": [
+            "Subtle"
+        ],
+        "164836": [
+            "Subtle"
+        ],
+        "164830": [
+            "Subtle"
+        ],
+        "16484": [
+            "Subtle"
+        ],
+        "169921": [
+            "Subtle"
+        ],
+        "162957": [
+            "Subtle"
+        ],
+        "162913": [
+            "Subtle"
+        ],
+        "48457": [
+            "Subtle"
+        ],
+        "164840": [
+            "Subtle",
+            "Forceful"
+        ],
+        "167966": [
+            "Subtle",
+            "Forceful"
+        ],
+        "164839": [
+            "Subtle",
+            "Forceful"
+        ],
+        "167965": [
+            "Subtle",
+            "Forceful"
+        ],
+        "164847": [
+            "Subtle"
+        ],
+        "164835": [
+            "Subtle"
+        ],
+        "162915": [
+            "Subtle"
+        ],
+        "164832": [
+            "Subtle"
+        ],
+        "162948": [
+            "Subtle"
+        ],
+        "164838": [
+            "Subtle"
+        ],
+        "171497": [
+            "Subtle"
+        ],
+        "123367": [
+            "Subtle"
+        ],
+        "120725": [
+            "Subtle"
+        ],
+        "173446": [
+            "Subtle"
+        ],
+        "169918": [
+            "Heartless"
+        ],
+        "171753": [
+            "Heartless"
+        ],
+        "14496": [
+            "Heartless"
+        ],
+        "236738": [
+            "Heartless"
+        ],
+        "7841": [
+            "Heartless"
+        ],
+        "238119": [
+            "Heartless"
+        ],
+        "206810": [
+            "Heartless"
+        ],
+        "247480": [
+            "Heartless"
+        ],
+        "167554": [
+            "Heartless"
+        ],
+        "5464": [
+            "Heartless"
+        ],
+        "171541": [
+            "Heartless"
+        ],
+        "206813": [
+            "Heartless"
+        ],
+        "163631": [
+            "Heartless"
+        ],
+        "5469": [
+            "Heartless"
+        ],
+        "5526": [
+            "Heartless"
+        ],
+        "165822": [
+            "Heartless"
+        ],
+        "165823": [
+            "Heartless"
+        ],
+        "10092": [
+            "Heartless"
+        ],
+        "5929": [
+            "Heartless"
+        ],
+        "5927": [
+            "Heartless"
+        ],
+        "164829": [
+            "Heartless"
+        ],
+        "123189": [
+            "Heartless"
+        ],
+        "123187": [
+            "Heartless"
+        ],
+        "236741": [
+            "Heartless"
+        ],
+        "238882": [
+            "Heartless"
+        ],
+        "254842": [
+            "Heartless"
+        ],
+        "164845": [
+            "Heartless"
+        ],
+        "10288": [
+            "Heartless"
+        ],
+        "160670": [
+            "Heartless"
+        ],
+        "128498": [
+            "Heartless"
+        ],
+        "237562": [
+            "Heartless"
+        ],
+        "5064": [
+            "Heartless"
+        ],
+        "251329": [
+            "Heartless"
+        ],
+        "246841": [
+            "Heartless"
+        ],
+        "162909": [
+            "Heartless"
+        ],
+        "185030": [
+            "Heartless"
+        ],
+        "7062": [
+            "Heartless"
+        ],
+        "180668": [
+            "Heartless"
+        ],
+        "181757": [
+            "Heartless"
+        ],
+        "237549": [
+            "Heartless"
+        ],
+        "171747": [
+            "Heartless"
+        ],
+        "247850": [
+            "Heartless"
+        ],
+        "238639": [
+            "Heartless"
+        ],
+        "162917": [
+            "Heartless"
+        ],
+        "162907": [
+            "Heartless"
+        ],
+        "4762": [
+            "Heartless"
+        ],
+        "5628": [
+            "Heartless"
+        ],
+        "164833": [
+            "Heartless"
+        ],
+        "177731": [
+            "Heartless"
+        ],
+        "164841": [
+            "Heartless"
+        ],
+        "167967": [
+            "Heartless"
+        ],
+        "37390": [
+            "Heartless"
+        ],
+        "190858": [
+            "Heartless"
+        ],
+        "35576": [
+            "Heartless"
+        ],
+        "120724": [
+            "Heartless"
+        ],
+        "120377": [
+            "Heartless"
+        ],
+        "8690": [
+            "Forceful"
+        ],
+        "123199": [
+            "Forceful"
+        ],
+        "123197": [
+            "Forceful"
+        ],
+        "123173": [
+            "Forceful"
+        ],
+        "5467": [
+            "Forceful"
+        ],
+        "151411": [
+            "Forceful"
+        ],
+        "203973": [
+            "Forceful"
+        ],
+        "246829": [
+            "Forceful"
+        ],
+        "169880": [
+            "Forceful"
+        ],
+        "171784": [
+            "Forceful"
+        ],
+        "211464": [
+            "Forceful"
+        ],
+        "171491": [
+            "Forceful"
+        ],
+        "171750": [
+            "Forceful"
+        ],
+        "164828": [
+            "Forceful"
+        ],
+        "163628": [
+            "Forceful"
+        ],
+        "48456": [
+            "Forceful"
+        ],
+        "238188": [
+            "Forceful"
+        ],
+        "180211": [
+            "Forceful"
+        ],
+        "162805": [
+            "Forceful"
+        ],
+        "5662": [
+            "Forceful"
+        ],
+        "5474": [
+            "Forceful"
+        ],
+        "158236": [
+            "Forceful"
+        ],
+        "169884": [
+            "Forceful"
+        ],
+        "164831": [
+            "Forceful"
+        ],
+        "162954": [
+            "Forceful"
+        ],
+        "162945": [
+            "Forceful"
+        ],
+        "164834": [
+            "Forceful"
+        ],
+        "190857": [
+            "Forceful"
+        ],
+        "120726": [
+            "Forceful"
+        ],
+        "170202": [
+            "Forceful"
+        ]
+    },
+    "__meta__": {
+        "disclaimer": "This information was compiled using data submitted to the \"Fallen London Wiki\" (https://fallenlondon.wiki) by its contributors and is used here under CC-BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/)"
+    }
+}

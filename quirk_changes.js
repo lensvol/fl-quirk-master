@@ -713,7 +713,7 @@ QUIRK_CHANGES = {
         "id_8774": ["Magnanimous"],
         // ...is confused by the cutlery
         "id_8775": ["Magnanimous"],
-        // ...has been cornered by spicily arrogant débutantes
+        // ... has been cornered by spicily arrogant debutantes
         "id_8779": ["Magnanimous"],
         // Must...resist! Think...of waistline!
         "id_8786": ["Austere", "Hedonist"],

@@ -807,8 +807,6 @@ QUIRK_CHANGES = {
         "id_10093": ["Austere", "Heartless"],
         // Hide from those who would hound you
         "id_10133": ["Subtle"],
-        // Refuse him 2
-        "id_10152": ["Ruthless"],
         // In passing
         "id_10165": ["Hedonist"],
         // Listen to a song the Fisher-Kings sing in the high places
@@ -1713,6 +1711,8 @@ QUIRK_CHANGES = {
         "id_250366": ["Forceful"],
         // Meditate on what it means to be monstrous
         "id_252905": ["Ruthless", "Steadfast", "Heartless"],
+        // Refuse him 2
+        "id_254365": ["Ruthless"],
         // Compete
         "id_254801": ["Hedonist"],
         // Keep silent (Waswood)

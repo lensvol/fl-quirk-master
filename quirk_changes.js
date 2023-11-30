@@ -299,6 +299,8 @@ QUIRK_CHANGES = {
         "id_5852": ["Steadfast"],
         // Be bold!
         "id_5887": ["Subtle"],
+        // CONSIDER MY OPTIONS
+        "id_5894": ["Melancholy"],
         // Ugh. Just sell the brat to pirates
         "id_5918": ["Heartless"],
         // Split them up using your Society connections
@@ -833,6 +835,8 @@ QUIRK_CHANGES = {
         "id_10359": ["Hedonist", "Magnanimous", "Melancholy", "Subtle"],
         // A dream about the mist
         "id_13416": ["Melancholy"],
+        // REMEMBER POLYTHREME
+        "id_13945": ["Melancholy"],
         // A glimpse of a kiss
         "id_14504": ["Hedonist"],
         // The pursuit of knowledge is the finest entertainment

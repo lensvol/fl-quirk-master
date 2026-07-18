@@ -3,18 +3,11 @@
   "description": "Annotate branches which influence your Quirks.",
   "version": "1.1.0",
   "manifest_version": 3,
-  "host_permissions": [
-      "https://www.fallenlondon.com/*"
-  ],
+  "host_permissions": ["https://www.fallenlondon.com/*"],
   "content_scripts": [
     {
-      "matches": [
-        "https://www.fallenlondon.com/*"
-      ],
-      "js": [
-        "quirk_changes.js",
-        "content.js"
-      ],
+      "matches": ["https://www.fallenlondon.com/*"],
+      "js": ["quirk_changes.js", "content.js"],
       "run_at": "document_start"
     }
   ],
@@ -32,5 +25,13 @@
     "48": "/images/fl-quirk-master-icon-48.png",
     "128": "/images/fl-quirk-master-icon-128.png"
   },
-  "web_accessible_resources": []
+  "web_accessible_resources": [],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{55172e79-76f3-4620-8c32-5c89d2e09e73}",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
 }

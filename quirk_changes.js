@@ -495,7 +495,7 @@ QUIRK_CHANGES = {
         "id_6757": ["Ruthless"],
         // 'Golden Topper'
         "id_6768": ["Hedonist"],
-        // Sometimes you just can’t help yourself
+        // Sometimes you just can't help yourself
         "id_6769": ["Hedonist"],
         // A little extortion
         "id_6776": ["Ruthless"],
@@ -537,7 +537,7 @@ QUIRK_CHANGES = {
         "id_7007": ["Ruthless"],
         // Give the fellow something to buy a cup of tea
         "id_7037": ["Magnanimous"],
-        // Join in
+        // Join in (Orphanage)
         "id_7039": ["Melancholy"],
         // Politely ask her to move
         "id_7054": ["Daring"],
@@ -709,13 +709,15 @@ QUIRK_CHANGES = {
         "id_8741": ["Austere"],
         // Attempt a fiery dance of the Elder Continent
         "id_8742": ["Daring"],
+        // Stick to something stately
+        "id_8743": ["Steadfast"],
         // Concentrate on the food
         "id_8744": ["Hedonist"],
         // ...is heading hopefully in your direction
         "id_8774": ["Magnanimous"],
         // ...is confused by the cutlery
         "id_8775": ["Magnanimous"],
-        // ... has been cornered by spicily arrogant debutantes
+        // ...has been cornered by spicily arrogant debutantes
         "id_8779": ["Magnanimous"],
         // Must...resist! Think...of waistline!
         "id_8786": ["Austere", "Hedonist"],
@@ -869,7 +871,7 @@ QUIRK_CHANGES = {
         "id_33236": ["Magnanimous"],
         // Clear the paths of others, then your own
         "id_34423": ["Magnanimous"],
-        // Mr Sacks! Take my best regards!
+        // Mr Sacks! Take my best regards! 1
         "id_34693": ["Subtle"],
         // Mr Sacks! Take my best regards! 2
         "id_34794": ["Subtle"],
@@ -937,7 +939,7 @@ QUIRK_CHANGES = {
         "id_120378": ["Ruthless"],
         // Start an argument with a leading light of your favoured school
         "id_120493": ["Forceful"],
-        // Go elsewhere
+        // Go elsewhere (Noman's End)
         "id_120501": ["Subtle"],
         // Warm your Tears of the Bazaar
         "id_120553": ["Melancholy"],
@@ -993,9 +995,9 @@ QUIRK_CHANGES = {
         "id_123182": ["Hedonist"],
         // 'I wrote a very professional reply.'
         "id_123183": ["Austere"],
-        // As it should be
+        // 'As it should be.'
         "id_123186": ["Hedonist"],
-        // He is too kind
+        // 'He is too kind.'
         "id_123187": ["Austere"],
         // He has proven useful
         "id_123188": ["Ruthless"],
@@ -1021,7 +1023,7 @@ QUIRK_CHANGES = {
         "id_123200": ["Hedonist"],
         // 'I persevered for hours. Hours!'
         "id_123201": ["Austere"],
-        // Ignore it
+        // Ignore it (Remnants)
         "id_123202": ["Hedonist"],
         // 'That said, lilac is a pleasant scent'
         "id_123206": ["Hedonist"],
@@ -1035,7 +1037,7 @@ QUIRK_CHANGES = {
         "id_123645": ["Forceful"],
         // Close your Orphanage
         "id_124766": ["Heartless"],
-        // '...but then, we are all maltreated here.'
+        // '...but then, we are all maltreated here...'
         "id_125061": ["Hedonist"],
         // '...so I set myself the task of feeding it up...'
         "id_125062": ["Austere"],
@@ -1055,7 +1057,7 @@ QUIRK_CHANGES = {
         "id_128498": ["Magnanimous"],
         // Even the odds in a clay dispute (5 FATE)
         "id_129494": ["Steadfast"],
-        // Emancipate a Clay Man
+        // Emancipate a Clay Man (The Clay Quarters)
         "id_129495": ["Magnanimous"],
         // Recruit Clay Man labour
         "id_129496": ["Ruthless"],
@@ -1097,6 +1099,14 @@ QUIRK_CHANGES = {
         "id_138750": ["Daring"],
         // Convince her to renounce her vows and go into hiding
         "id_138788": ["Subtle"],
+        // Publicly forgive those who wronged you
+        "id_140959": ["Magnanimous"],
+        // Publicly swear vengeance on all who betrayed you
+        "id_140960": ["Ruthless"],
+        // Publish a sincere account of an enduring confidence
+        "id_140961": ["Steadfast"],
+        // Boast of your betrayals
+        "id_140962": ["Heartless"],
         // Get the information you need, then end him
         "id_142281": ["Ruthless"],
         // Find out what she knows, then kill her for her part in it
@@ -1141,6 +1151,10 @@ QUIRK_CHANGES = {
         "id_158236": ["Subtle"],
         // Addressing the people: the Cynic's Way
         "id_159574": ["Heartless"],
+        // Offer your condolences
+        "id_160383": ["Melancholy"],
+        // Join in the gambling
+        "id_160385": ["Heartless"],
         // Take the book by force
         "id_160668": ["Heartless"],
         // Let him keep it
@@ -1293,10 +1307,6 @@ QUIRK_CHANGES = {
         "id_165823": ["Magnanimous"],
         // Arrange an escape
         "id_167554": ["Steadfast"],
-        // Hand over your report to the Constables
-        "id_167946": ["Steadfast"],
-        // Forget the whole business
-        "id_167947": ["Austere"],
         // You went for a night of drinking
         "id_167964": ["Hedonist"],
         // You provided a lecture
@@ -1305,8 +1315,8 @@ QUIRK_CHANGES = {
         "id_167966": ["Daring", "Subtle"],
         // You went for a long walk to clear your head
         "id_167967": ["Melancholy"],
-        // Leave them to it 1
-        "id_169400": ["Melancholy"],
+        // Publish a monograph on obscure scientific minutiae (Patch)
+        "id_169098": ["Subtle"],
         // Decline 3
         "id_169879": ["Heartless"],
         // Buy their drinks, and listen to them reveal their secrets
@@ -1371,6 +1381,18 @@ QUIRK_CHANGES = {
         "id_170203": ["Daring"],
         // An amalgam of your own invention (Patch)
         "id_170204": ["Forceful"],
+        // Publicly forgive those who wronged you (1893)
+        "id_171005": ["Magnanimous"],
+        // Publicly swear vengeance on all who betrayed you (1893)
+        "id_171006": ["Ruthless"],
+        // Publish a sincere account of an enduring confidence (1893)
+        "id_171007": ["Steadfast"],
+        // Boast of your betrayals (1893)
+        "id_171008": ["Heartless"],
+        // Speak of your endeavours to overhear confessions
+        "id_171046": ["Subtle"],
+        // Speak of your endeavours to protect confessions
+        "id_171047": ["Steadfast"],
         // Sell the letter to the highest bidder
         "id_171488": ["Hedonist"],
         // Keep it to yourself (Secrets)
@@ -1549,6 +1571,8 @@ QUIRK_CHANGES = {
         "id_235946": ["Ruthless"],
         // Making your Name: blackmail her
         "id_235947": ["Ruthless"],
+        // Walk away (The Spinning of the Wheels)
+        "id_236123": ["Steadfast"],
         // Dress like Mr Veils on a Good Day
         "id_236254": ["Subtle"],
         // A lamentation in the style of the Celestials
@@ -1599,6 +1623,8 @@ QUIRK_CHANGES = {
         "id_238301": ["Melancholy"],
         // In the churchyard where this all began
         "id_238302": ["Melancholy"],
+        // Among the ashes of a thousand love-stories
+        "id_238303": ["Melancholy"],
         // Call Mr Fires a scourge on London's working class
         "id_238307": ["Daring"],
         // Burn it all down
@@ -1729,6 +1755,12 @@ QUIRK_CHANGES = {
         "id_255288": ["Melancholy"],
         // Push him into the river
         "id_257964": ["Heartless"],
+        // Leave them to it 1
+        "id_258458": ["Melancholy"],
+        // Hand over your report to the Constables
+        "id_258522": ["Steadfast"],
+        // Forget the whole business
+        "id_258523": ["Austere"],
         // Test the man's skills
         "id_258610": ["Subtle"],
         // Test the man's skills (confoundingly)
@@ -1743,6 +1775,62 @@ QUIRK_CHANGES = {
         "id_259070": ["Subtle"],
         // Breeze past
         "id_262064": ["Austere"],
+        // Sell the location to Urchins
+        "id_264912": ["Daring"],
+        // Sell the location to Spies
+        "id_264915": ["Subtle"],
+        // Help her get home
+        "id_266237": ["Magnanimous"],
+        // Dance with her
+        "id_266238": ["Hedonist"],
+        // Help spectators from the stands
+        "id_266884": ["Magnanimous"],
+        // Join a party of celebrants
+        "id_266894": ["Hedonist"],
+        // Follow a more morose crowd
+        "id_266898": ["Melancholy"],
+        // Remain at a distance
+        "id_266899": ["Steadfast"],
+        // Make the most of the disturbance
+        "id_266900": ["Ruthless"],
+        // Get yourself to safety
+        "id_266901": ["Subtle"],
+        // Bait the ushabti
+        "id_269386": ["Subtle"],
+        // Walk on by (Aces High)
+        "id_269633": ["Austere"],
+        // Walk on by (A Dinner to Die For)
+        "id_269893": ["Austere"],
+        // Flee!
+        "id_270086": ["Austere"],
+        // Join a party of celebrants (The Waswood)
+        "id_271133": ["Hedonist"],
+        // Help spectators from the stands (The Waswood)
+        "id_271139": ["Magnanimous"],
+        // Make the most of the disturbance (The Waswood)
+        "id_271140": ["Ruthless"],
+        // Get yourself to safety (The Waswood)
+        "id_271141": ["Subtle"],
+        // Emancipate a Clay Man (Canvassing)
+        "id_275626": ["Magnanimous", "Ruthless"],
+        // Buy the man a drink
+        "id_276203": ["Steadfast"],
+        // Present him with a lucrative opportunity
+        "id_276204": ["Heartless"],
+        // Display admirable sportsmanship (FTU30)
+        "id_276992": ["Steadfast"],
+        // An evening of Oenology (FTU30)
+        "id_277002": ["Hedonist"],
+        // Fourteen courses of sheer indulgence (FTU 30)
+        "id_277004": ["Hedonist"],
+        // Display admirable sportsmanship (FTU30)
+        "id_378084": ["Steadfast"],
+        // An evening of Oenology (FTU30)
+        "id_378105": ["Hedonist"],
+        // An evening of Oenology (FTU30)
+        "id_378106": ["Hedonist"],
+        // Fourteen courses of sheer indulgence (FTU 30)
+        "id_378111": ["Hedonist"],
     },
     "Loses": {
         // Brawl with street fighters
@@ -2121,9 +2209,9 @@ QUIRK_CHANGES = {
         "id_123182": ["Austere"],
         // 'I wrote a very professional reply.'
         "id_123183": ["Hedonist"],
-        // As it should be
+        // 'As it should be.'
         "id_123186": ["Austere"],
-        // He is too kind
+        // 'He is too kind.'
         "id_123187": ["Heartless"],
         // He has proven useful
         "id_123188": ["Steadfast"],
@@ -2149,7 +2237,7 @@ QUIRK_CHANGES = {
         "id_123200": ["Austere"],
         // 'I persevered for hours. Hours!'
         "id_123201": ["Hedonist"],
-        // Ignore it
+        // Ignore it (Remnants)
         "id_123202": ["Austere"],
         // 'That said, lilac is a pleasant scent'
         "id_123206": ["Austere"],
@@ -2177,7 +2265,7 @@ QUIRK_CHANGES = {
         "id_128485": ["Magnanimous"],
         // Let it go (Rats)
         "id_128498": ["Heartless"],
-        // Emancipate a Clay Man
+        // Emancipate a Clay Man (The Clay Quarters)
         "id_129495": ["Ruthless"],
         // Recruit Clay Man labour
         "id_129496": ["Magnanimous"],
@@ -2191,6 +2279,14 @@ QUIRK_CHANGES = {
         "id_138750": ["Daring"],
         // Remain seated
         "id_138759": ["Steadfast"],
+        // Publicly forgive those who wronged you
+        "id_140959": ["Heartless"],
+        // Publicly swear vengeance on all who betrayed you
+        "id_140960": ["Magnanimous"],
+        // Publish a sincere account of an enduring confidence
+        "id_140961": ["Subtle"],
+        // Boast of your betrayals
+        "id_140962": ["Magnanimous"],
         // Find out what she knows, then kill her for her part in it
         "id_142333": ["Magnanimous"],
         // Gather more evidence. Be sure.
@@ -2215,6 +2311,10 @@ QUIRK_CHANGES = {
         "id_158106": ["Steadfast"],
         // The Doctrine of the Anchoress
         "id_158236": ["Forceful"],
+        // Offer your condolences
+        "id_160383": ["Heartless"],
+        // Join in the gambling
+        "id_160385": ["Melancholy"],
         // Take the book by force
         "id_160668": ["Magnanimous"],
         // Let him keep it
@@ -2369,6 +2469,8 @@ QUIRK_CHANGES = {
         "id_167966": ["Subtle", "Forceful"],
         // You went for a long walk to clear your head
         "id_167967": ["Heartless"],
+        // Publish a monograph on obscure scientific minutiae (Patch)
+        "id_169098": ["Forceful"],
         // Decline 3
         "id_169879": ["Hedonist"],
         // Buy their drinks, and listen to them reveal their secrets
@@ -2433,6 +2535,18 @@ QUIRK_CHANGES = {
         "id_170203": ["Hedonist"],
         // An amalgam of your own invention (Patch)
         "id_170204": ["Austere"],
+        // Publicly forgive those who wronged you (1893)
+        "id_171005": ["Heartless"],
+        // Publicly swear vengeance on all who betrayed you (1893)
+        "id_171006": ["Magnanimous"],
+        // Publish a sincere account of an enduring confidence (1893)
+        "id_171007": ["Subtle"],
+        // Boast of your betrayals (1893)
+        "id_171008": ["Magnanimous"],
+        // Speak of your endeavours to overhear confessions
+        "id_171046": ["Magnanimous"],
+        // Speak of your endeavours to protect confessions
+        "id_171047": ["Heartless"],
         // Sell the letter to the highest bidder
         "id_171488": ["Austere"],
         // Keep it to yourself (Secrets)
@@ -2577,14 +2691,14 @@ QUIRK_CHANGES = {
         "id_211607": ["Austere"],
         // Wait for His Majesty the Prince, and the Court to greet you
         "id_211750": ["Austere"],
-        // Send your Rubbery Friend to help
-        "id_212224": ["Ruthless"],
         // Make the Sanguine Auctioneer take you to the Spires Collection
         "id_234326": ["Magnanimous"],
         // Blackmail her
         "id_235946": ["Magnanimous"],
         // Making your Name: blackmail her
         "id_235947": ["Magnanimous"],
+        // Walk away (The Spinning of the Wheels)
+        "id_236123": ["Ruthless"],
         // A lamentation in the style of the Celestials
         "id_236738": ["Heartless"],
         // Revel in a sordid story, as is the Nocturnal fashion
@@ -2629,6 +2743,8 @@ QUIRK_CHANGES = {
         "id_238188": ["Forceful"],
         // Hand it over to Mr Fires
         "id_238223": ["Magnanimous"],
+        // Smuggle it to the ceiling
+        "id_238228": ["Steadfast"],
         // Call Mr Fires a scourge on London's working class
         "id_238307": ["Subtle"],
         // Burn it all down
@@ -2703,5 +2819,19 @@ QUIRK_CHANGES = {
         "id_258878": ["Steadfast"],
         // Breeze past
         "id_262064": ["Hedonist"],
+        // Sell the location to Urchins
+        "id_264912": ["Melancholy"],
+        // Sell the location to Spies
+        "id_264915": ["Steadfast"],
+        // Help her get home
+        "id_266237": ["Heartless"],
+        // Dance with her
+        "id_266238": ["Austere"],
+        // Walk on by (Aces High)
+        "id_269633": ["Hedonist"],
+        // Walk on by (A Dinner to Die For)
+        "id_269893": ["Hedonist"],
+        // Flee!
+        "id_270086": ["Hedonist"],
     }
 }

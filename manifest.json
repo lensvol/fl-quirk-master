@@ -1,7 +1,7 @@
 {
   "name": "FL Quirk Master",
   "description": "Annotate branches which influence your Quirks.",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "manifest_version": 3,
   "host_permissions": [
       "https://www.fallenlondon.com/*"

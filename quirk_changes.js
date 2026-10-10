@@ -1805,6 +1805,10 @@ QUIRK_CHANGES = {
         "id_270086": ["Austere"],
         // Join a party of celebrants (The Waswood)
         "id_271133": ["Hedonist"],
+        // Follow a more morose crowd (The Waswood)
+        "id_271137": ["Melancholy"],
+        // Remain at a distance (The Waswood)
+        "id_271138": ["Steadfast"],
         // Help spectators from the stands (The Waswood)
         "id_271139": ["Magnanimous"],
         // Make the most of the disturbance (The Waswood)
@@ -1823,6 +1827,22 @@ QUIRK_CHANGES = {
         "id_277002": ["Hedonist"],
         // Fourteen courses of sheer indulgence (FTU 30)
         "id_277004": ["Hedonist"],
+        // Harden your volition
+        "id_278613": ["Austere"],
+        // Lengthen your reach
+        "id_278614": ["Daring"],
+        // Hollow your heart
+        "id_278615": ["Heartless"],
+        // Reinforce your knuckles
+        "id_278616": ["Forceful"],
+        // Flush your kidneys
+        "id_278617": ["Hedonist"],
+        // Soften your palms
+        "id_278618": ["Magnanimous"],
+        // Sharpen your teeth
+        "id_278620": ["Ruthless"],
+        // Increase your mass
+        "id_278621": ["Steadfast"],
         // Display admirable sportsmanship (FTU30)
         "id_378084": ["Steadfast"],
         // An evening of Oenology (FTU30)

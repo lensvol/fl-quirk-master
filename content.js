@@ -83,21 +83,25 @@ let mainContentObserver = new MutationObserver(((mutations, observer) => {
                     const recordedGains = QUIRK_CHANGES.Gains[key];
                     const recordedLoses = QUIRK_CHANGES.Loses[key];
 
-                    const gains = [...(recordedGains || [])]
-                    const loses = [...(recordedLoses || [])]
+                    const gains = []
+                    const loses = []
 
                     if (annotation) {
-                        for (const i in gains) {
-                            if (annotation.textContent.includes(gains[i])) {
-                                console.debug(`[FL Quirk Master] Removing ${gains[i]}, as it is already mentioned.`)
-                                gains.splice(i, 1);
+                        for (const i in recordedGains) {
+                            const quirk = recordedGains[i];
+                            if (annotation.textContent.includes(quirk)) {
+                                console.debug(`[FL Quirk Master] Removing ${quirk}, as it is already mentioned.`)
+                            } else {
+                                gains.push(quirk);
                             }
                         }
 
-                        for (const i in loses) {
-                            if (annotation.textContent.includes(loses[i])) {
-                                console.debug(`[FL Quirk Master] Removing ${loses[i]}, as it is already mentioned.`)
-                                loses.splice(i, 1);
+                        for (const i in recordedLoses) {
+                            const quirk = recordedLoses[i];
+                            if (annotation.textContent.includes(quirk)) {
+                                console.debug(`[FL Quirk Master] Removing ${quirk}, as it is already mentioned.`);
+                            } else {
+                                loses.push(quirk);
                             }
                         }
                     }
